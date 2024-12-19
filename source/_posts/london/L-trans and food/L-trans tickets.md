@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-交通】（地鐵、火車、公車）票價資訊、如何使用感應式信用卡搭乘？
-date: 2024-11-1 23:59:53
-updated: 2024-11-1 23:59:53
+date: 2024-11-1 23:59:56
+updated: 2024-11-1 23:59:56
 tags:
   - 英國-交通.美食
 categories: 
@@ -14,15 +14,14 @@ categories:
  >[倫敦交通官網](https://tfl.gov.uk/)：本次旅行地點在倫敦市區，特別整理出本次旅行有使用到的付費方式、交通工具。
 
 ### 感應式信用卡或行動支付的注意事項：
-+ [官網](https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go?intcmp=55539)：
-+ **感應式信用卡 (Contactless cards)：**
-指信用卡上有像 wifi 的符號
++ [官網](https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go?intcmp=55539)
 
-+ **行動支付 (Mobile payments)：**
-例如Apple Pay、Google Pay…可使用手機、手錶、鑰匙圈、貼紙或腕帶等裝置進行。
++ **感應式信用卡 (Contactless cards)：**指信用卡上有像wifi的符號
+
++ **行動支付 (Mobile payments)：**例如Apple Pay、Google Pay…可使用手機、手錶、鑰匙圈、貼紙或腕帶等裝置進行。
 
 + **刷進、出站需使用同一方式：**
-以感應式信用卡刷進，就要以感應式信用卡刷出站，以行動支付刷進，就要以行動支付刷出站。
+以「感應式信用卡」刷進，就要以「感應式信用卡」刷出站，以「行動支付」刷進，就要以「行動支付」刷出站。
 
 ### 票價-地鐵、火車：
 取決於兩點，分別為移動時有跨越哪幾區(zone)？、搭乘時間是尖峰(peak)還是離峰(off peak)？

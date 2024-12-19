@@ -1,7 +1,7 @@
 ---
 title: 【維也納-景點】維也納國家歌劇院 (Wiener Staatsoper) 
-date: 2024-02-26 12:03:18
-updated: 2024-02-26 12:03:18
+date: 2024-11-3 00:00:01
+updated: 2024-11-3 00:00:01
 tags: 
   - 維也納-景點
 categories: 

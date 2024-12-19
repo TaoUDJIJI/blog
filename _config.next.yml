@@ -156,7 +156,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   #GitHub: https://github.com/yourname || fab fa-github
-  E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  E-Mail: mailto:taoudlovesjijibird@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -311,8 +311,8 @@ post_navigation: left
 
 # TagCloud settings for tags page.
 tagcloud:
-  min: 20 # Minimum font size in px
-  max: 20 # Maximum font size in px
+  min: 15.5 # Minimum font size in px
+  max: 15.5 # Maximum font size in px
   amount: 200 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order
@@ -426,7 +426,7 @@ github_banner:
 # ---------------------------------------------------------------
 
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
   host:
@@ -440,7 +440,7 @@ font:
   global:
     external: true
     family: Lato
-    size: 0.9
+    size: 0.95
 
   # Font settings for site title (.site-title).
   title:

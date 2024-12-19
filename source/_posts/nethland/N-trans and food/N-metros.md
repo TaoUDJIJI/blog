@@ -1,7 +1,7 @@
 ---
 title: 【荷蘭-交通】阿姆斯特丹「地鐵」怎麼搭？實際搭乘經驗分享
-date: 2024-02-25 19:03:18
-updated: 2024-02-25 19:03:18
+date: 2024-11-2 00:00:22
+updated: 2024-11-2 00:00:22
 tags:
   - 荷蘭-交通.美食.商店
 categories: 
@@ -12,13 +12,11 @@ categories:
 > **票價請參考：** <font color=#4599B6>【荷蘭-交通】(電車、火車、公車、地鐵...) 票價資訊、如何使用感應式信用卡搭乘？</font>
 <!-- more -->
 
-### 簡要說明：
-+ 地鐵 (metro) ：網路由 5 條線路組成，分別為50、51、52、53 和 54 號線。 
-+ 時刻表查詢：
-  https://www.gvb.nl/en/travel-information/stops-and-timetable
-+ 線路圖查詢：
-  https://www.gvb.nl/en/gvb-maps
+### 地鐵 ( metro )：
++ 網路由 5 條線路組成，分別為50、51、52、53 和 54 號線。 
++ [時刻表查詢](https://www.gvb.nl/en/travel-information/stops-and-timetable)
++ [網路地圖查詢](https://www.gvb.nl/en/gvb-maps)
 
 ### 實際搭乘體驗：
-+ 路線完全不複雜！路線都不長的，搭乘時很輕鬆無負擔，也有手扶梯哦超方便，地鐵內部很乾淨，拍了幾張圖分享給大家。
++ 路線完全不複雜！路線都短短的，搭乘時很輕鬆無負擔，也有手扶梯，超方便，地鐵內部很乾淨，拍了幾張圖分享給大家。
 

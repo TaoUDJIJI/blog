@@ -1,7 +1,7 @@
 ---
 title: 【維也納-景點】霍夫堡聖母升天教堂 (Wiener Hofburgkapelle) - 年前彌撒
-date: 2024-02-26 12:03:18
-updated: 2024-02-26 12:03:18
+date: 2024-11-3 00:00:02
+updated: 2024-11-3 00:00:01
 tags: 
   - 維也納-景點
 categories: 

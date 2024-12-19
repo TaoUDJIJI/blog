@@ -1,7 +1,7 @@
 ---
 title: 【馬斯垂克-景點】聖彼得山洞穴導覽 (Guided Tour North Caves)
-date: 2024-02-25 21:03:18
-updated: 2024-02-25 21:03:18
+date: 2024-11-2 00:00:14
+updated: 2024-11-2 00:00:14
 tags:
   - 荷蘭-馬斯垂克.海爾倫.法肯堡
 categories: 
@@ -16,20 +16,20 @@ categories:
 >**鄰近景點：**<font color=#4599B6>Monseigneur Nolenspark公園</font>
 
 ### 簡要說明： 
-+ 官網：https://www.exploremaastricht.nl/en
++ [官網](https://www.exploremaastricht.nl/en)
 
 ### 城市導覽（City walk）：
-+ https://www.exploremaastricht.nl/en/city-walk-maastricht
-+ 透過城市漫步將馬斯垂克的歷史帶入生活，導遊會分享您在書中找不到的故事，您將了解這座城市幾個世紀以來如何發展和變化，馬斯垂克以其美麗的建築而聞名，您可以在城市漫步中近距離欣賞它們。
++ [網址點入內](https://www.exploremaastricht.nl/en/city-walk-maastricht)
++ 透過城市漫步將馬斯垂克的歷史帶入生活，導遊會分享這座城市幾個世紀以來如何發展和變化，馬斯垂克以其美麗的建築而聞名，可以在城市漫步中近距離欣賞它們。
 
 ### 地下導覽：**（（我參加的是Guided Tour North Caves**
-+ https://www.exploremaastricht.nl/en/maastricht-underground
-+ 透過我們有趣的馬斯垂克地下之旅，深入了解馬斯垂克豐富的過去。探索古老的洞穴，那裡的時間似乎靜止了。感受砲台的歷史，發現這些地下通道所蘊藏的戰略秘密。前往令人印象深刻的聖彼得堡，體驗前所未有的城市景觀。我們的導遊將帶您了解這些地方的生機，講述您不會很快忘記的故事。
++ [網址點入內](https://www.exploremaastricht.nl/en/maastricht-underground)
++ 將由導遊帶領了解馬斯垂克豐富的過去，探索古老的洞穴，洞穴內的時間似乎靜止了，也可以感受砲台的歷史，發現這些地下通道所蘊藏的戰略秘密，甚至還可以選擇前往令人印象深刻的聖彼得堡，體驗前所未有的城市景觀。
 + 目前總共有六種，分別為「Guided Tour North Caves」、「Guided Tour Fort St Pieter」、「Guided Tour North Caves incl. The Vault」、G「uided Tour Casemates Waldeck」、「Guided Tour Zonneberg Caves」、「Comboticket Fort St Pieter + North Caves」。
 
 ### 參觀流程：
 + **集合：**
-集合地點在山坡上方，會先看見辦公室，走幾步路有間廁所，再往前走一點就是集合地點，12:15導遊出現，稍微講解一下後帶隊出發前往洞穴。（所以千萬別遲到歐不然不知道大家走哪去了）。
+集合地點在山坡上方，會先看見辦公室，走幾步路後有間廁所，再往前走一點就是集合地點，當天12:15導遊出現，稍微講解一下後帶隊出發前往洞穴。（所以千萬別遲到哦，不然不知道大家走去哪了）。
 + **抵達洞穴：**
 導遊會在洞穴入口驗票，等大家都進入洞穴後會把入口鎖上，避免其他遊客不小心誤闖在這裡迷路，然後會發給隊伍的排頭、排中、排尾各一盞燈，洞穴內沒有其他照明，全靠手上的三盞燈，導遊除了介紹一些壁畫外，還會講解歷史事件，例如我們所站的位置以前發生過什麼事、居住在這的人民是如何生活，就像聽故事一樣，介紹的很仔細，聽著導遊的描述腦袋中浮現好多畫面，雖然我已經穿兩件褲子(一件是刷毛褲）但越往裡面走感覺越冷，衣服、褲子穿厚點。
 + **離開洞穴：**

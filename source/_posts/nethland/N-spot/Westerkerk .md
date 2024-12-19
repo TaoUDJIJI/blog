@@ -1,7 +1,7 @@
 ---
 title: 【阿姆斯特丹-景點】西教堂 (Westerkerk) 
-date: 2024-02-25 21:03:18
-updated: 2024-02-25 21:03:18
+date: 2024-11-2 00:00:02
+updated: 2024-11-2 00:00:02
 tags:
   - 荷蘭-阿姆斯特丹.烏特勒支
   - 免費景點      
@@ -26,13 +26,11 @@ Hendrick de Keyser是西教堂的建築師。該教堂由阿姆斯特丹市議�
 + 不收取參觀費用。但接受捐款以幫助維持教會的維護
 
 ### 音樂活動：
-+ 管風琴音樂會：
-https://westerkerk.nl/orgelconcerten/
-+ 音樂會：
-https://westerkerk.nl/concertseries-westerkerk-amsterdam/
++ [管風琴音樂會](https://westerkerk.nl/orgelconcerten/)
++ [音樂會](https://westerkerk.nl/concertseries-westerkerk-amsterdam/)
  
 ### 新年特別活動：
 + 新年音樂會
 
 ### 線上360° 參訪西教堂：
-網址：https://tours.360spotz.com/v/KGEjEyvZjQv
++ [網址](https://tours.360spotz.com/v/KGEjEyvZjQv)
