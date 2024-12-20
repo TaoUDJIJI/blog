@@ -12,7 +12,7 @@ categories:
 >**門票**：教堂免費入場，但開放捐款以幫助保護建築（（（我當時去的時候遇到整修沒開。
 <!-- more -->
 >**鄰近景點**：船屋博物館（Houseboat Museum）、觀光船旅遊代理（Amsterdam Circle Line）、鋼琴博物館（Geelvinck Pianola Museum）、運河博物館（Museum of the Canals）、阿拉德·皮爾遜博物館（Allard Pierson）、阿姆斯特丹地牢
-（The Amsterdam Dungeon）、阿姆斯特丹王宮（Koninklijk Paleis Amsterdam）、新教堂（De Nieuwe Kerk）、<font color=#4599B6>安妮之家（Anne Frank House）</font>
+（The Amsterdam Dungeon）、阿姆斯特丹王宮（Koninklijk Paleis Amsterdam）、新教堂（De Nieuwe Kerk）、[安妮之家（Anne Frank House）](https://taoudjiji.github.io/blog/nethland/N-spot/Anne%20Frank%20House/?highlight=%E5%AE%89%E5%A6%AE%E4%B9%8B%E5%AE%B6%EF%BC%88anne+frank+house%EF%BC%89)
 
 ### 簡要介紹：
 + <font color=#4287B5>西教堂：</font> 

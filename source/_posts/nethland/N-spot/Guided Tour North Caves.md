@@ -13,7 +13,7 @@ categories:
 >**遊玩時長：**1小時40分鐘
 >**參加場次：**12:15-13:25
 <!-- more -->
->**鄰近景點：**<font color=#4599B6>Monseigneur Nolenspark公園</font>
+>**鄰近景點：**[Monseigneur Nolenspark公園](https://taoudjiji.github.io/blog/nethland/N-spot/Monseigneur%20Nolenspark/?highlight=monseigneur+nolenspark)
 
 ### 簡要說明： 
 + [官網](https://www.exploremaastricht.nl/en)

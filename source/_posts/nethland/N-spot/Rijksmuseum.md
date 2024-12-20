@@ -13,12 +13,12 @@ categories:
 >**遊玩時長**：1hr
 <!-- more -->
 
->**鄰近景點**：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅（Museum Van Loon）、<font color=#4599B6>梵谷博物館</font>
+>**鄰近景點**：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅（Museum Van Loon）、[梵谷博物館](https://taoudjiji.github.io/blog/nethland/N-spot/Van%20Gogh%20Museum/?highlight=%E6%A2%B5%E8%B0%B7%E5%8D%9A%E7%89%A9%E9%A4%A8)
 
 ### 簡要說明：
 + [官網](https://www.rijksmuseum.nl)
 + [畫作背後的故事](https://www.rijksmuseum.nl/en/stories)
-+ [線上參訪維梅爾（Vermeer）展覽](https://www.rijksmuseum.nl/nl/vermeer-360)：這個很棒的是點選畫作會有介紹，像<font color=#4599B6>安妮之家</font>的官網一樣有線上導覽的功能，很喜歡！
++ [線上參訪維梅爾（Vermeer）展覽](https://www.rijksmuseum.nl/nl/vermeer-360)：這個很棒的是點選畫作會有介紹，像[安妮之家](https://taoudjiji.github.io/blog/nethland/N-spot/Anne%20Frank%20House/?highlight=%E5%AE%89%E5%A6%AE%E4%B9%8B%E5%AE%B6)的官網一樣有線上導覽的功能，很喜歡！
  
 ### 注意事項：
 + **僅允許攜帶A4尺寸以下的包包進入博物館**，免費衣帽間無法寄放大包包、行李，大型物件請寄放於博物館廣場的儲物櫃，[博物館廣場的儲物櫃資訊](https://www.lockerpoint.com/lockerpoint-locations/lockerpoint-museumplein/)。

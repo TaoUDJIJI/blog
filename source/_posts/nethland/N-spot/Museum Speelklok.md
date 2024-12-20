@@ -14,7 +14,7 @@ categories:
 >**遊玩時長**：1hr
 <!-- more -->
 >**有再訪意願**：這次因趕時間只有參加導覽，還沒有看其他展物
->**鄰近景點**：<font color=#4599B6>聖馬丁主教座堂（Domkerk）</font>、加大肋納會院博物館（Museum Catharijneconvent）、Dille & Kamille - Utrecht家居用品店、Springhaver戲院、、Hoog Catharijne購物中心、Albert Heijn購物中心
+>**鄰近景點**：加大肋納會院博物館（Museum Catharijneconvent）、Dille & Kamille - Utrecht家居用品店、Springhaver戲院、、Hoog Catharijne購物中心、Albert Heijn購物中心、[聖馬丁主教座堂（Domkerk）](https://taoudjiji.github.io/blog/nethland/N-spot/Domkerk/?highlight=%E8%81%96%E9%A6%AC%E4%B8%81%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82)
 
 ### 簡要說明：
 + [官網](https://www.museumspeelklok.nl/)

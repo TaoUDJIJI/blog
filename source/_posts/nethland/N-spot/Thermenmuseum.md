@@ -12,7 +12,7 @@ categories:
 >**本人喜好程度**：🌝 x4.5，旅伴喜好程度：🌝 x4
 >**遊玩時長**：1.5hr
 <!-- more -->
->**鄰近景點**：荷蘭採礦博物館（Nederlands Mijnmuseum）、Kinderstad Heerlen 主題公園/遊樂場、<font color=#4599B6>Maastricht</font>、<font color=#4599B6>Valkenburg</font>
+>**鄰近景點**：荷蘭採礦博物館（Nederlands Mijnmuseum）、Kinderstad Heerlen 主題公園/遊樂場、[馬斯垂克(Maastricht)](https://taoudjiji.github.io/blog/nethland/N-spot/Maastricht/?highlight=%E9%A6%AC%E6%96%AF%E5%9E%82%E5%85%8B)、[法肯堡(Vleuten)](https://taoudjiji.github.io/blog/nethland/N-spot/Valkenburg/?highlight=%E6%B3%95%E8%82%AF%E5%A0%A1)
 
 ### 交通： 
 + 所在的Heerlen車站是繽紛的黃石子地，很可愛的顏色，有為了聖誕節臨時搭建在路邊的遊樂設施、溜冰場、溜滑梯、冰壺。

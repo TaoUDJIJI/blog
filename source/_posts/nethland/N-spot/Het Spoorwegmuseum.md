@@ -12,8 +12,7 @@ categories:
 >**本人喜好程度**：🌝 x3，旅伴喜好程度：🌝 x2.5
 >**遊玩時間**：1hr
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>Monseigneur Nolenspark公園</font>、<font color=#4599B6>聖馬丁主教座堂（Domkerk）</font>、<font color=#4599B6>音樂鐘博物館（Museum Speelklok）</font>、中央博物館（Centraal Museum）、加大肋納會院博物館
-（Museum Catharijneconvent）、Dille & Kamille - Utrecht家居用品店
+>**鄰近景點**：中央博物館（Centraal Museum）、加大肋納會院博物館（Museum Catharijneconvent）、Dille & Kamille - Utrecht家居用品店、[聖馬丁主教座堂（Domkerk）](https://taoudjiji.github.io/blog/nethland/N-spot/Domkerk/?highlight=%E8%81%96%E9%A6%AC%E4%B8%81%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82)、[Monseigneur Nolenspark公園](https://taoudjiji.github.io/blog/nethland/N-spot/Monseigneur%20Nolenspark/?highlight=monseigneur+nolenspark)、[音樂鐘博物館 (Museum Speelklok)](https://taoudjiji.github.io/blog/nethland/N-spot/Museum%20Speelklok/?highlight=museum+speelklok)
 
 
 ### 簡要說明：
@@ -23,7 +22,7 @@ categories:
 
 ### 參觀動線：
 + 這個景點我在旅遊前沒有特別做功課，當天逛起來覺得動線不太明確，進場後大部分時間都覺得迷茫，不知道能逛哪，設施、食物攤販分散在各個地方，總共參觀到三台火車，一台可以上車，另外兩台從窗外看，大部分遊客是帶小孩的家庭，讓小孩奔跑放風。
-+ <font color=#4287B5>如果看到有人在排隊，通常是在排「設施體驗」的場館，不用另外付費</font>，想來這邊參觀的話，<font color=#4287B5>建議在官網事先查好想體驗的項目，</font>單看告示牌上的設施名稱看不太出來項目內容，例如「烈火審判」，當下不知道是蝦毀所以不敢亂排。
++ **如果看到有人在排隊，通常是在排「設施體驗」的場館，不用另外付費**，想來這邊參觀的話，**建議在官網事先查好想體驗的項目，**單看告示牌上的設施名稱看不太出來項目內容，例如「烈火審判」，當下不知道是蝦毀所以不敢亂排。
 + 閉館時可以從園區坐火車直達烏特勒支火車站 (Utrecht Centraal)，可以少走20分鐘的路程，車站旁會有螢幕顯示發車時間。
  
 ### 導覽 (HOP-ON HOP-OFF TOUR)：

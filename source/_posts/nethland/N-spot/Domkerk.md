@@ -15,7 +15,7 @@ categories:
 >**停留時間：**15min（官網參觀時間推估為1小時）
 <!-- more -->
 >**有再訪意願：**這次因趕時間來不及深度探索
->**鄰近景點：**<font color=#4599B6>Museum Speelklok</font>、加大肋納會院博物館（Museum Catharijneconvent）、Dille & Kamille - Utrecht 家居用品店、Springhaver 戲院、Hoog Catharijne 購物中心、Albert Heijn購物中心
+>**鄰近景點：**加大肋納會院博物館（Museum Catharijneconvent）、Dille & Kamille - Utrecht 家居用品店、Springhaver 戲院、Hoog Catharijne 購物中心、Albert Heijn購物中心、[音樂鐘博物館 (Museum Speelklok)](https://taoudjiji.github.io/blog/nethland/N-spot/Museum%20Speelklok/?highlight=museum+speelklok)
 
 ### 網站：
 + [教堂-官網](https://domkerk.nl/welcome-to-the-domkerk-utrecht)
@@ -51,4 +51,4 @@ categories:
 時長100分鐘，發現Dom教堂的隱藏故事，漫步在Lofen宮的遺蹟中，並攀登標誌性的Dom塔的前25米。講述烏得勒支如何從萊姆斯（聯合國教科文組織世界遺產）的羅馬堡壘成長為荷蘭最重要的城市之一。 請注意：本次旅行適合8歲及以上的兒童。
 
 ### 參觀心得：
-+ 當時趕著去<font color=#4599B6>音樂鐘博物館 (Museum Speelklok)</font> ，所以只在這間教堂稍作停留，教堂的廣場、教堂內的彩繪玻璃都好美，幸運的是當天有旅客在唱聖歌，整體搭配下一整個氛圍超讚！深深被療癒。
++ 當時趕著去[音樂鐘博物館 (Museum Speelklok)](https://taoudjiji.github.io/blog/nethland/N-spot/Museum%20Speelklok/?highlight=museum+speelklok) ，所以只在這間教堂稍作停留，教堂的廣場、教堂內的彩繪玻璃都好美，幸運的是當天有旅客在唱聖歌，整體搭配下一整個氛圍超讚！深深被療癒。

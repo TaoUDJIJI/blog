@@ -9,9 +9,11 @@ categories:
   - 🥥 荷蘭（阿姆斯特丹、烏特勒支、馬斯垂克、海爾倫、法肯堡）
 ---
 
-> **旅行地點**：除了荷蘭市區外，還有移動到郊區，移動軌跡含 <font color=#4287B5>Amsterdam (阿姆斯特丹)</font>、<font color=#4287B5>Zaandijk Zaanse Schans (風車村)</font>、<font color=#4287B5>Utrecht (烏特勒支)</font>、<font color=#4287B5>Maastricht (馬斯垂克)</font>、<font color=#4287B5>Vleuten (法肯爾堡)</font>、<font color=#4287B5>Heerlen (海爾倫)。</font>
+> **旅行地點**：除了荷蘭市區外，還有移動到郊區，移動軌跡含Amsterdam (阿姆斯特丹)、Utrecht (烏特勒支)、[風車村(Zaandijk Zaanse Schans)](https://taoudjiji.github.io/blog/nethland/N-spot/Zaanse%20Schans%20/?highlight=%E9%A2%A8%E8%BB%8A%E6%9D%91)、[馬斯垂克(Maastricht)](https://taoudjiji.github.io/blog/nethland/N-spot/Maastricht/?highlight=%E9%A6%AC%E6%96%AF%E5%9E%82%E5%85%8B)、[法肯堡(Vleuten)](https://taoudjiji.github.io/blog/nethland/N-spot/Valkenburg/?highlight=%E6%B3%95%E8%82%AF%E5%A0%A1)、[海爾倫(Heerlen)](https://taoudjiji.github.io/blog/nethland/N-spot/Thermenmuseum/?highlight=heerlen+%28%E6%B5%B7%E7%88%BE%E5%80%AB%29)
+
 > **實際經驗**：全程使用「感應式信用卡」、「ns app電子票」搭乘大眾交通公具，沒有另外購買其他交通卡。
 <!-- more -->
+
 
 ### 行程規劃：
 + [「 9292 」](https://9292.nl/en)：
@@ -29,12 +31,13 @@ categories:
 使用「感應式信用卡或手機行動支付」的票價等同「全價的二等座」，網站內有常見問題可以閱讀，使用實體卡片者，要從錢包拿出卡片，避免感應失敗或重複扣款。
 
 + 其他網站對 OVpay 的說明：
-[NS網站（適用於火車）](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card )、[GVB官網（適用於地鐵、電車、公車、渡輪）](https://www.gvb.nl/en/Payment-options)
+[NS網站](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card )：適用於火車、[GVB官網](https://www.gvb.nl/en/Payment-options)：（適用於地鐵、電車、公車、渡輪）
++  在荷蘭搭電車時，有特別區分OV卡感應機台、OVpay 感應機台，兩者不可混用。
 
-+  在荷蘭搭電車時，有特別區分OV卡感應機台、OVpay 感應機台，兩者不可混用，可參考<font color=#4599B6>【荷蘭-交通】荷蘭「電車」怎麼搭？實際搭乘經驗分享。</font>
 
 ### 火車：
-> **可參考相關文章**：<font color=#4599B6>【荷蘭-交通】荷蘭「火車」怎麼搭？實際搭乘經驗分享</font>
+> **可參考相關文章**：[【荷蘭-交通】荷蘭「火車」怎麼搭？實際搭乘經驗分享](https://taoudjiji.github.io/blog/nethland/N-trans%20and%20food/N-train/?highlight=%E7%81%AB%E8%BB%8A)
+
 > **車種**：
 總共有 「Sprinter」、「Intercity」、「Intercity Direct」。雖然「Sprinter」的停靠站較多，「Intercity」的停靠站較少，但兩者無因車種區分票價，<u>票價取決於乘車時間是「Travel at any moment」還是「Travel during off-peak hours」，以及選擇1等座還是2等座</u>。而 「Intercity Direct」，因為速度最快，選此車種除了基本票價外，要另外加收 [「附加費用」](https://www.ns.nl/en/tickets)。
 #### [票價](https://www.ns.nl/en/tickets)：
@@ -57,9 +60,9 @@ categories:
 
 ### 阿姆斯特丹-市區交通 (地鐵、電車、公車、渡輪)：
 +  可參考相關文章：
-<font color=#4599B6>【荷蘭-交通】阿姆斯特丹「地鐵」怎麼搭？實際搭乘經驗分享</font>
-<font color=#4599B6>【荷蘭-交通】阿姆斯特丹「電車」怎麼搭？實際搭乘經驗分享</font>
-<font color=#4599B6>【荷蘭-交通】荷蘭「公車」怎麼搭？實際搭乘經驗分享</font>
+[【荷蘭-交通】阿姆斯特丹「地鐵」怎麼搭？實際搭乘經驗分享](https://taoudjiji.github.io/blog/nethland/N-trans%20and%20food/N-metros/?highlight=%E3%80%90%E8%8D%B7%E8%98%AD+%E4%BA%A4%E9%80%9A%E3%80%91)
+[【荷蘭-交通】阿姆斯特丹「電車」怎麼搭？實際搭乘經驗分享](https://taoudjiji.github.io/blog/nethland/N-trans%20and%20food/N-trams/?highlight=%E3%80%90%E8%8D%B7%E8%98%AD+%E4%BA%A4%E9%80%9A%E3%80%91)
+[【荷蘭-交通】荷蘭「公車」怎麼搭？實際搭乘經驗分享](https://taoudjiji.github.io/blog/nethland/N-trans%20and%20food/N-bus/?highlight=%E3%80%90%E8%8D%B7%E8%98%AD+%E4%BA%A4%E9%80%9A%E3%80%91)
 
 +  「阿姆斯特丹」的交通由 [特許經營商「GVB」](https://www.gvb.nl/en/visit-amsterdam/gvb-public-transport-company-amsterdam)所提供。
 (1)	地鐵：由 5 條線路組成：50、51、52、53 、54號。
@@ -72,7 +75,7 @@ categories:
  + [Amsterdam Travel Ticket](https://www.gvb.nl/en/travel-products/tourists/amsterdam-travel-ticket)：
   **適合客群**：訪問「阿姆斯特丹」，並經由「史基浦機場」抵達或離開
   **細節：**可選擇1、2、3日票，票的有效期從首次使用到最後一天的凌晨04:00。
-  **適用範圍：** 機場＋市區交通。包含 <font color=#4287B5>NS公司：</font>「阿姆斯特丹」和「史基浦機場」間的火車、<font color=#4287B5>Connexxion公司：</font>僅限「史基浦機場」到市區的巴士快線397 和 Niteliner N97、<font color=#4287B5>GVB公司：</font>「阿姆斯特丹」市區內的電車、公車、地鐵。
+  **適用範圍：** 機場＋市區交通。包含**NS公司**：「阿姆斯特丹」和「史基浦機場」間的火車、**Connexxion公司**：僅限「史基浦機場」到市區的巴士快線397 和 Niteliner N97、**GVB公司：**「阿姆斯特丹」市區內的電車、公車、地鐵。
  
  + [Amsterdam & Region Travel Ticket](https://www.gvb.nl/reisproducten/toeristen/amsterdam-en-region-travel-ticket)：
   **適合客群**：探索「阿姆斯特丹」及其周邊近郊。

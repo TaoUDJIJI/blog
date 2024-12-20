@@ -1,7 +1,7 @@
 ---
 title: 【維也納-交通】飛機：荷蘭阿姆斯特丹 -> 奧地利維也納
-date: 2024-11-3 00:00:12
-updated: 2024-11-3 00:00:12
+date: 2024-11-3 00:00:13
+updated: 2024-11-3 00:00:13
 tags:
   - 維也納-交通.美食
 categories: 
@@ -26,6 +26,8 @@ categories:
 
 ### 維也納機場--->市區的交通：
 + 🚄 **搭火車：維也納機場-->市區**
-   + 火車OBB官網：https://shop.oebbtickets.at/en/ticket.
+   + [火車OBB官網](https://shop.oebbtickets.at/en/ticket.)
    + 飛機表定11:30降落，拿好托運行李後，在自助機台購買火車票，當天12:48搭上火車。
-   + 關於其他市區交通可參考：<font color=#4599B6>維也納-市區交通(地鐵、電車、公車)及機場交通(巴士、火車)票價資訊</font>
+
+### 相關文章：
++ [【維也納-交通】「市區交通」及「機場交通」的票價資訊、「火車」及「地鐵」實際搭乘經驗分享](https://taoudjiji.github.io/blog/vieena/V-trans%20and%20food/V-trans%20tickets/)

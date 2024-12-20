@@ -22,12 +22,12 @@ categories:
 + 參觀範圍：約有20多個房間可供參觀，但一些房間可能在修復中。
 
 ### 交通：
-+ <font color=#4287B5>搭火車：</font> 
++ **<font color=#4287B5>搭火車：</font>**
 **Amsterdam Centraal -> Utrecht Centraal**
 「Utrecht Centraal」車站內有付費廁所可以上，一次是0.7歐元，從「ns」app 可以查出列車有無廁所，如果不急著上廁所的話可以到火車上再上，是免費的（但可能故障關閉），廁所要按按鍵開關門、鎖門。
-+ <font color=#4287B5>搭火車：</font> 
++ **<font color=#4287B5>搭火車：</font>** 
 **Utrecht Centraal -> Vleuten**
-+ <font color=#4287B5>搭公車：</font> 
++ **<font color=#4287B5>搭公車：</font>** 
 **<去程-127號> ： Vleuten -> Eikslaan**
 公車資訊我用一款叫「9292」的app查詢，旅伴用「google map」查也行得通，約半個小時一班車，要去古堡可於「Eikslaan」下車。沿路開過的「紅村」很美，還有看到幾隻梅花鹿跟綿羊，<u>下車後走在田境小路上約半小時就會抵達古堡</u>，風景很漂亮，很值得慢慢散步。
 **<回程-111號> ： Kasteel De Haar -> Vleuten**

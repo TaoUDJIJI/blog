@@ -12,8 +12,7 @@ categories:
 >**本人喜好程度**：🌝 x3，旅伴喜好程度：🌝 x4
 >**遊玩時長**：1.5hr
 <!-- more -->
->**鄰近景點**：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅（Museum Van Loon）、<font color=#4599B6>荷蘭國家博物館（Rijksmuseum）</font>
-
+>**鄰近景點**：阿姆斯特丹音樂廳（Het Concertgebouw）、Moco Museum博物館、Rembrandts Amsterdam Experience沈浸式體驗、Amsterdam Pipe Museum古蹟博物館、范隆家族運河豪宅（Museum Van Loon）、[荷蘭國家博物館（Rijksmuseum）](https://taoudjiji.github.io/blog/nethland/N-spot/Rijksmuseum/?highlight=%E8%8D%B7%E8%98%AD%E5%9C%8B%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A4%A8)
 
 ### 語音導覽： 
 + 需花錢加購，有中文可選擇
@@ -22,7 +21,7 @@ categories:
 + 有分為「臨時展覽」、「常設展覽」，它們隸屬不同建築物，當天我參觀時，「臨時展覽」有特別說不可以拍照，「常設展覽」則可以。
 
 ### 參觀心得：
-+ 參觀前沒有注意到官網有發佈很多關於文森・梵谷的生平故事，所以實際參訪時沒有很大的連結感，也可能因為是聖誕週或是有寶可夢特別系列導致人潮很多<font color=#909497>（人太密集的地方我會想逃跑）</font>，沒辦法靜下心來欣賞畫作，參觀到後面發現窗外有大太陽！心思更是飄到等等要去的戶外景點<font color=#4599B6>風車村</font>。
++ 參觀前沒有注意到官網有發佈很多關於文森・梵谷的生平故事，所以實際參訪時沒有很大的連結感，也可能因為是聖誕週或是有寶可夢特別系列導致人潮很多<font color=#909497>（人太密集的地方我會想逃跑）</font>，沒辦法靜下心來欣賞畫作，參觀到後面發現窗外有大太陽！心思更是飄到等等要去的戶外景點[風車村 (Zaandijk Zaanse Schans)](https://taoudjiji.github.io/blog/nethland/N-spot/Zaanse%20Schans%20/?highlight=%E9%A2%A8%E8%BB%8A%E6%9D%91)。
 + 畫作主要為花、水果、人像、風景，多為小幅畫作，比起現場實際參訪，官網上的生平故事會更吸引我一些。
 
 ### 故事概述 🌟🌟🌟🌟🌟

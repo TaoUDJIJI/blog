@@ -16,15 +16,22 @@ categories:
 > **有再訪意願：**廣場市集很豐富，賣的東西幾乎不重複，這次聽完導覽就天黑了沒有逛到公園，下次想去，至於建築內部不會買票再次參觀。
 > **鄰近景點：**馬車博物館（Kaiserliche Wagenburg Wien）、維也納科技博物館（Technisches Museum Wien mit Österreichischer Mediathek）
 
-### 皇宮內部：
-+ 有多種門票可選擇，<font color=#c36d67>內部不可以拍照。</font>
+### 簡要說明：
++ **皇宮內部不可以拍照。**
++ [美泉宮app](https://www.schoenbrunn.at/en/visitor-information/schoenbrunn-app)：
+包括互動地圖、折扣促銷和最佳拍照地點提示！
++ [劇院（THEATRE）](https://www.schoenbrunn.at/en/events/theater)：
+木偶劇院（Marionette Theatre）、晚宴劇場（Schönbrunner Stöckl）
++ [宮廷音樂會（PALACE CONCERTS）](https://www.palaceconcertsvienna.com/de/konzerte-packages/konzert)：
+在美泉宮的「橘園」中，欣賞美泉宮管弦樂團的古典音樂會。聖誕節、除夕夜也有場次。
+ 
 
 ### 語音導覽、真人導遊：
-https://www.schoenbrunn.at/en/tickets-and-prices/all-tickets-tours
-<font color=#909497>（（ 不知道要選哪個的話，可參考下方**虛擬遊覽美泉宮**：</font>
+[網址點入內](https://www.schoenbrunn.at/en/tickets-and-prices/all-tickets-tours)：<font color=#909497>（（ 不知道要選哪個導覽的話，可參考下方「虛擬遊覽美泉宮」</font>
+
 <font color=#4287B5>語音導覽（有中文可選擇）：</font>
 + **「 GRAND TOUR 」**：可以參觀40間房間，參觀時長約60分鐘。
-+ **「 IMPERIAL TOUR 」**：可以參觀26個房間，參觀時長約40分鐘。
++ **「 IMPERIAL TOUR 」**：可以參觀27個房間，參觀時長約40分鐘。
 + **「 STATE APARTMENTS 」**：簡短的亮點之旅，參觀時長約25分鐘。
 
 <font color=#4287B5>真人導遊：</font>
@@ -32,7 +39,7 @@ https://www.schoenbrunn.at/en/tickets-and-prices/all-tickets-tours
 + **「 GUIDED TOUR FRANZ JOSEPH 」**：參觀時長約75分鐘
 
 ### 虛擬遊覽美泉宮（SCHÖNBRUNN DIGITAL-VIRTUAL TOUR）：
-https://www.schoenbrunn.at/en/about-schoenbrunn/the-palace/tour-of-the-palace
+[網址點入內](https://www.schoenbrunn.at/en/about-schoenbrunn/the-palace/tour-of-the-palace)：
 + 選單包含「語音導覽」、「真人導遊」、「公園」、「宮殿底層」的涵括範圍、詳細資訊。
 + **「IMPERIAL TOUR」、「GRAND TOUR」**的差別：
 **「GRAND TOUR」**比 **「IMPERIAL TOUR」**多參觀 28～40 號的房間 。我是買GRAND TOUR，想說一次參觀完，最喜歡 31 號這間。
@@ -50,14 +57,10 @@ GSchönbrunn Palace（美泉宮）＋Zoo（動物園）＋Desert Experience Hous
 + 位於宮殿底層的西翼，在這裡您可以了解到許多關於皇室子弟日常生活的有趣事實。他們穿得怎麼樣？他們是如何迎接皇帝和皇后的呢？
 
 ### 開放時間：
-https://www.schoenbrunn.at/en/visitor-information/opening-times
++ [網址點入內](https://www.schoenbrunn.at/en/visitor-information/opening-times)
 + **宮殿：**每天開放，包括公共假期！
 + **公園：**大門於早上6.30開放，開放時間內可免費進入。如果想參觀美泉宮的特殊景點，例如<font color=#4287B5>「私人花園」、「橘園」或「迷宮」</font> 則需要單獨購買門票。
 + **噴泉**：十月中旬至四月中不開放。
-  
-### 美泉宮app：
-https://www.schoenbrunn.at/en/visitor-information/schoenbrunn-app
-+ 包括互動地圖、折扣促銷和最佳拍照地點提示！
     
 ### 參觀動線：
 + <font color=#4287B5>刷票進場後左邊是在排隊領取「語音導覽」，右邊是直接進場不領取耳機</font>，建議要領取，畢竟有包含在門票內～
@@ -68,13 +71,3 @@ https://www.schoenbrunn.at/en/visitor-information/schoenbrunn-app
 
 ### 廣場新年市集：
 + <font color=#4287B5>有滿多特色食物，算是逛過很多市集以來攤販重複率最低的</font>，買了焦糖腰果，很好吃欸！表層脆脆的，還有看到其他攤在賣酸菜馬鈴薯餃…也有很多職人手作，例如木作時鐘、手作娃娃，還有好特別的旋轉木馬，座位是傢俱或日用品不是馬匹，轉動方式是人力踩腳踏車。
-
-### 劇院（THEATRE）：
-https://www.schoenbrunn.at/en/events/theater
-+ 木偶劇院（Marionette Theatre）
-+ 晚宴劇場（Schönbrunner Stöckl）
- 
-### 宮廷音樂會（PALACE CONCERTS）：
-+ https://www.palaceconcertsvienna.com/de/konzerte-packages/konzert
-+ 在美泉宮的「橘園」中，欣賞美泉宮管弦樂團的古典音樂會。聖誕節、除夕夜也有場次。
- 

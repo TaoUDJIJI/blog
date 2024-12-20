@@ -12,7 +12,7 @@ categories:
 >**本人喜好程度**：🌝 x5，旅伴喜好程度：🌝 x3
 **遊玩時間**：1hr
 <!-- more --> 
-**鄰近景點**：<font color=#4599B6>西教堂 (Westerkerk)</font>、船屋博物館（Houseboat Museum）、觀光船旅遊代理（Amsterdam Circle Line）、鋼琴博物館（Geelvinck Pianola Museum）、運河博物館（Museum of the Canals）、阿拉德·皮爾遜博物館（Allard Pierson）、阿姆斯特丹地牢（The Amsterdam Dungeon）、阿姆斯特丹王宮 (Koninklijk Paleis Amsterdam）、新教堂（De Nieuwe Kerk）
+**鄰近景點**：船屋博物館（Houseboat Museum）、觀光船旅遊代理（Amsterdam Circle Line）、鋼琴博物館（Geelvinck Pianola Museum）、運河博物館（Museum of the Canals）、阿拉德·皮爾遜博物館（Allard Pierson）、阿姆斯特丹地牢（The Amsterdam Dungeon）、阿姆斯特丹王宮 (Koninklijk Paleis Amsterdam）、新教堂（De Nieuwe Kerk）、[西教堂 (Westerkerk)](https://taoudjiji.github.io/blog/nethland/N-spot/Westerkerk%20/?highlight=%E8%A5%BF%E6%95%99%E5%A0%82+%28westerkerk%29)
 
 ### 門票說明：
 + [官網](https://www.annefrank.org/en/museum/)：門票只能透過官網購買，若所選日期沒有更多門票，代表票已售完。
@@ -36,8 +36,8 @@ categories:
 安妮的父親奧托，是秘密附樓中唯一倖存的人，他被俄羅斯人從集中營解救出來，在返回荷蘭的漫長旅程中，他得知妻子伊迪絲已經去世。到達荷蘭後，他聽說安妮和瑪格特也已經過世了。 
 
 ### 參觀說明：
-+ **有語音導覽**
-沒有中文，但有英文可選擇，跟<font color=#4599B6>閣樓吾主博物館</font>一樣不需要耳機，掃描牆上的號碼，放在耳朵旁邊聽就可以，導覽主要是透過安妮日記的視角來說明當時躲藏的背景故事，日記紀錄了當時猶太人被迫害的情形。
++ **有語音導覽**        
+沒有中文，但有英文可選擇，跟[閣樓上的吾主博物館](https://taoudjiji.github.io/blog/nethland/N-spot/Ons'%20Lieve%20Heer%20op%20Solder/?highlight=%E9%96%A3%E6%A8%93)一樣不需要耳機，掃描牆上的號碼，放在耳朵旁邊聽就可以，導覽主要是透過安妮日記的視角來說明當時躲藏的背景故事，日記紀錄了當時猶太人被迫害的情形。
 + **門票種類**
 （1）分別有「Tickets for a museum visit」、「Tickets for a museum visit + introductory program」
 （2）我是選前者，門票包含的「語音導覽」內容很豐富，這樣就蠻夠的。
