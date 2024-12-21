@@ -19,7 +19,7 @@ categories:
 
 ### 	住宿--->維多利亞火車站（計程車初體驗）：
 + <font color=#D1756F>倫敦地鐵的首班車資訊：</font> 
-可參考[【倫敦-交通】倫敦「地鐵」怎麼搭？(含往返蓋威克機場與市區) 實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-tube/?highlight=%E5%80%AB%E6%95%A6%E3%80%8C%E5%9C%B0%E9%90%B5%E3%80%8D%E6%80%8E%E9%BA%BC%E6%90%AD%EF%BC%9F)。**地鐵部分路線有24小時營運**。像我隔天一早要搭5:19的首班火車前往蓋維克機場，查詢後發現住宿附近地鐵站的首發車是5:30，若想透過地鐵搭往維多利亞車站，只能坐紅線再轉淡藍線，思考後決定搭計程車前往，不僅省了轉乘的麻煩，行駛時間也更短。
+可參考[【倫敦-交通】倫敦「地鐵」怎麼搭？](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-tube/?highlight=%E5%80%AB%E6%95%A6%E3%80%8C%E5%9C%B0%E9%90%B5%E3%80%8D%E6%80%8E%E9%BA%BC%E6%90%AD%EF%BC%9F)。**地鐵部分路線有24小時營運**。像我隔天一早要搭5:19的首班火車前往蓋維克機場，查詢後發現住宿附近地鐵站的首發車是5:30，若想透過地鐵搭往維多利亞車站，只能坐紅線再轉淡藍線，思考後決定搭計程車前往，不僅省了轉乘的麻煩，行駛時間也更短。
 + <font color=#D1756F>計程車App：</font> 
 我有下載這兩款app比價，分別為<font color=#4287B5>「Uber」、「bolt」</font>。
 + <font color=#D1756F>實際經驗：</font>

@@ -15,7 +15,7 @@ categories:
 <!-- more -->
 >**冬季限定的樂園**，裡面很有氣氛！有些飲食區有歌手在唱歌，很好聽～
 >**有再訪意願**：氛圍感十足
->**鄰近景點**：<font color=#4599B6>Frameless Immersive Art Experience</font>、白金漢宮（Buckingham Palace）、福爾摩斯紀念館（The Sherlock Holmes Museum）、西敏寺（Westminster Abbey）
+>**鄰近景點**：白金漢宮（Buckingham Palace）、[福爾摩斯紀念館](https://taoudjiji.github.io/blog/london/L-spot/Sherlock%20Holmes%20Museum/?highlight=%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF%E9%9B%95%E5%83%8F)、[Frameless Immersive Art Experience](https://taoudjiji.github.io/blog/london/L-spot/Frameless%20Immersive%20Art%20Experience/?highlight=frameless+immersive+art+experience)、[西敏寺](https://taoudjiji.github.io/blog/london/L-spot/Westminster%20Abbey/?highlight=%E8%A5%BF%E6%95%8F%E5%AF%BA+%28westminster+abbey%29)
 
 <br>
 {% cq %} 想像與現實重合，從幻想之境穿越後抵達的樂園，看著某些畫面恍惚了 {% endcq %}
@@ -70,4 +70,4 @@ Bond Street、Marble Arch、Knightsbridge、Hyde Park Corner
 + 我是從紅門（RED GATE）入場的，但當天離場時不能從紅門出去，工作人員說要從旁邊的金門（GOLD GATE）才能離場，沒有特別問是什麼原因。
 
 ### 相關文章：
-+ <font color=#4599B6>【維也納-景點】普拉特公園 (Prater)</font>
++ [【維也納-景點】普拉特公園 (Prater)](https://taoudjiji.github.io/blog/vieena/V-spot/Prater/?highlight=%E6%99%AE%E6%8B%89%E7%89%B9%E5%85%AC%E5%9C%92) 

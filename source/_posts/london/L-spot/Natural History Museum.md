@@ -13,8 +13,7 @@ categories:
 >**本人喜好程度**：🌝 x3.5，旅伴喜好程度：🌝 x3.5
 >**遊玩時長**：1.5hr
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>科學博物館</font>、<font color=#4599B6>維多利亞與亞伯特博物館</font>、皇家阿爾伯特音樂廳
-（Royal Albert Hall）
+>**鄰近景點**：皇家阿爾伯特音樂廳（Royal Albert Hall）、[科學博物館](https://taoudjiji.github.io/blog/london/L-spot/Science%20Museum/?highlight=%E7%A7%91%E5%AD%B8%E5%8D%9A%E7%89%A9%E9%A4%A8+%28science+museum%29)、[維多利亞與亞伯特博物館](https://taoudjiji.github.io/blog/london/L-spot/VA%20Museum/?highlight=%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E8%88%87%E4%BA%9E%E4%BC%AF%E7%89%B9%E5%8D%9A%E7%89%A9%E9%A4%A8+%28victoria+and+albert+museum%29)
 
 <br>
 {% cq %} 呼吸感到急促，思緒混雜，腳步加快，走馬看花的逛著 {% endcq %}
@@ -24,15 +23,15 @@ categories:
 + [官網](https://www.nhm.ac.uk/visit/galleries-and-museum-map.html)
 + [跨年活動 (New Year's Eve)](https://www.nhm.ac.uk/events/new-years-eve.html)：繼去年的場場爆滿活動之後，我們的除夕派對又回來了，歡迎與我們一起創造自然歷史，慶祝 2025 年的到來！
 。時間：12月31日的 20:00–01:30（最後入場時間為22:00）
-。<font color=#c36d67>此活動適合 18 歲及以上人士</font>，我們會要求您在入場時出示附有照片的有效身份證件
+。**此活動適合 18 歲及以上人士，會要求在入場時出示附有照片的有效身份證件**
 。沒有正式的服裝要求、有衣帽間可使用、適合輪椅族
 。不能攜帶自己的酒類入場
 。無法退款或更改
 
 ### 參觀動線：
-+ 有兩個入口，一個是<font color=#4287B5>「Hintze Hall」，</font> 位於Cromwell Road，另一個是<font color=#4287B5>「Earth Hall」</font> ，位於Exhibition Road。
-+ 若是從<font color=#4287B5>「Earth Hall」</font> 的入口進入，一樓有地心電梯，這棟是普通建築，但往樓下走有連接通道，可以穿過去另一個區域到 Central Hall ，那邊的建築就很華麗超美。
-+ 如果想直接參觀 Central Hall 華麗建築的話，就從<font color=#4287B5>「Hintze Hall」，</font>的入口進入。
++ 有兩個入口，一個是<font color=#4287B5>**「Hintze Hall」**，</font> 位於Cromwell Road，另一個是<font color=#4287B5>**「Earth Hall」**</font> ，位於Exhibition Road。
++ 若是從<font color=#4287B5>**「Earth Hall」**</font> 的入口進入，一樓有地心電梯，這棟是普通建築，但往樓下走有連接通道，可以穿過去另一個區域到 Central Hall ，那邊的建築就很華麗超美。
++ 如果想直接參觀 Central Hall 華麗建築的話，就從<font color=#4287B5>**「Hintze Hall」**，</font>的入口進入。
 
 ### 參觀心得：
 + 一開始我進入的是普通建築，參觀日是12月中的禮拜五下午，人潮蠻多，在展間參觀時會感到擁擠，華麗建築是真的很漂亮，但因為人太多所以不會想停留太久，在紀念品商店買了一張可愛的明信片～

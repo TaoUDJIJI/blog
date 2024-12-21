@@ -16,7 +16,7 @@ categories:
 <!-- more -->
 >**有再訪意願**：是免費的，裡面的畫作很喜歡！
 >**特色**：這次旅行是12月中，博物館前的廣場有聖誕市集～
->**鄰近景點**：<font color=#4599B6>His Majesty's Theatre</font> (演出歌劇魅影的劇院)、M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、The Crystal Maze LIVE Experience密室逃脫中心、柯芬園（Covent Garden）
+>**鄰近景點**：M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、The Crystal Maze LIVE Experience密室逃脫中心、柯芬園（Covent Garden）、[歌劇魅影](https://taoudjiji.github.io/blog/london/L-spot/Phantom%20of%20the%20Opera/?highlight=%E6%AD%8C%E5%8A%87%E9%AD%85%E5%BD%B1+%28phantom+of+the+opera%29)
 
 <br>
 {% cq %} 「好多雙眼睛在盯著我們」 『 是吧...我也這麼覺得，就像被狩獵著 』 {% endcq %}

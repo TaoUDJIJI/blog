@@ -6,9 +6,10 @@ tags: 從零開始架設部落格
 categories: 
   - 🌴 從零開始架設部落格-新手小白的學習筆記
 ---
-利用hackMD做筆記
 ># markdown筆記
-
+>練習篇
+利用hackMD做筆記
+<!-- more -->
 ## <font color=#E86D2D>文字篇：</font>
 ### <font color=#E86D2D>一、標題：＃</font>
 <font color=#FF5656>＃要空一格在打字。</font><font color=#2E86C1>＃x6</font> 的大小跟＃x5一樣，只是<font color=#2E86C1>會變成灰色</font>  

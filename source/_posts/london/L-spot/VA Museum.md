@@ -13,7 +13,7 @@ categories:
 >**本人喜好程度**：🌝 x4.5，旅伴喜好程度：🌝 x4.5
 >**遊玩時長**：2.5hr
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>自然史博物館</font>、<font color=#4599B6>科學博物館</font>、皇家阿爾伯特音樂廳（Royal Albert Hall）
+>**鄰近景點**：皇家阿爾伯特音樂廳（Royal Albert Hall）、[科學博物館](https://taoudjiji.github.io/blog/london/L-spot/Science%20Museum/?highlight=%E7%A7%91%E5%AD%B8%E5%8D%9A%E7%89%A9%E9%A4%A8+%28science+museum%29)、[自然史博物館](https://taoudjiji.github.io/blog/london/L-spot/Natural%20History%20Museum/?highlight=%E8%87%AA%E7%84%B6%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8+%28natural+history+museum%29)
 
 <br>
 {% cq %} 除了豐富的館藏外，建築的本身亦是藝術品 {% endcq %}

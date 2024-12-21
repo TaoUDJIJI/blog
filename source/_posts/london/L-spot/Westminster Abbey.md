@@ -13,7 +13,7 @@ categories:
 >**遊玩時長：3hr** ( 單純跟著耳機導覽的步調就花費1hr )
 >**有使用london pass**，通票持有者無需提前預訂參觀時間。
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>大笨鐘</font>、<font color=#4599B6>倫敦眼</font>、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
+>**鄰近景點**：大笨鐘、倫敦眼、西敏宮（Palace of Westminster）、珠寶塔（Jewel Tower）、維多利亞塔花園（Victoria Tower Gardens South）、Florence Nightingale Museum南丁格爾博物館、白金漢宮（Buckingham Palace）、西敏主教座堂（Westminster Cathedral）
 
 <br>
 {% cq %} 氣派的安息之地，一邊觀想過去，一邊成為歷史洪流的一部份 {% endcq %}
@@ -45,4 +45,4 @@ categories:
 在外面迴廊處，而非西敏寺內，將耳機交還於西敏寺內的工作人員後就可以前往迴廊，沿路會有廁所指標。
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ [【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)

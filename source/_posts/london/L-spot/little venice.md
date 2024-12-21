@@ -16,13 +16,14 @@ categories:
 >**遊玩時長**：30min
 <!-- more -->
 >**有再訪意願**：讓人很放鬆的景點
->**鄰近景點**：<font color=#4599B6>福爾摩斯紀念館</font>、Waitrose & Partners 超市、Al Noor supermarket 超市
+>**鄰近景點**：Waitrose & Partners 超市、Al Noor supermarket 超市、[福爾摩斯博物館](https://taoudjiji.github.io/blog/london/L-spot/Sherlock%20Holmes%20Museum/?highlight=%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF%E9%9B%95%E5%83%8F)
+
 
 <br>
 {% cq %} 冬日的暖陽驅散旅程中所積累的疲憊，看看鴨子和水、枯樹和綠地，放空思緒為靈魂充電 {% endcq %}
 <br>
 
 ### 參觀心得：
-+ 我是搭公車去的，在倫敦搭公車非常方便，可參考<font color=#4599B6>【倫敦-交通】倫敦公車怎麼搭？實際搭乘分享</font>，下公車後用google map導航到<font color=#4287B5>Rembrandt Gardens Little Venice公園</font>，走路不用多久就會抵達。
++ 我是搭公車去的，在倫敦搭公車非常方便，可參考[【倫敦-交通】倫敦「公車」怎麼搭？實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-bus/?highlight=%E5%80%AB%E6%95%A6%E3%80%8C%E5%85%AC%E8%BB%8A%E3%80%8D)，下公車後用google map導航到「Rembrandt Gardens Little Venice公園」，走路很快就會抵達。
 + 公園很美欸！是個很放鬆的景點，有鴨子在水中游泳、有綠地和枯樹，還有船停靠在岸邊，很漂亮很喜歡～
 + 附近還有星巴克、超市 

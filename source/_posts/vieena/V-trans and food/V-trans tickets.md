@@ -8,14 +8,12 @@ categories:
   - 🌴 旅遊體驗分享-目前皆為自助遊
   - 🥥 奧地利（維也納)  
 ---
-
-<!-- more -->
-
 ### 市區交通：
++ 營運商：Ｗiener Linien
++ 交通工具包含：地鐵(U-Bahn)、路面電車(Strassenbahn)、近郊鐵路(S-Bahn)、巴士(Autobus)
+<!-- more -->
 + [售票網](https://shop.wienmobil.at/en/products)
 + [官網](https://www.wienerlinien.at/web/wl-en)
-+ 營運商：Ｗiener Linien
-+ 交通工具包含：地鐵U-Bahn、路面電車Strassenbahn、近郊鐵路S-Bahn、巴士Autobus
 
 > #### 如何購票？
 + 可以在地鐵站的實體機台購買，介面清楚操作容易，也可以從「wienmobil app」線上購票，線上購票需要實名制，我在登入app的時候一直秀逗，所以我都用現場機台買。

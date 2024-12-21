@@ -13,7 +13,7 @@ categories:
 >**當天觀賞場次**：14:30-17:00
 >**演出劇院**：His Majesty's Theatre
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>國家美術館</font>、M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、密室逃脫中心 (The Crystal Maze LIVE Experience)
+>**鄰近景點**：M&M'S London糖果店、特拉法加廣場（Trafalgar Square）、密室逃脫中心 (The Crystal Maze LIVE Experience)、[國家美術館](https://taoudjiji.github.io/blog/london/L-spot/National%20Art%20Museum/?highlight=%E5%9C%8B%E5%AE%B6%E7%BE%8E%E8%A1%93%E9%A4%A8+%28national+art+museum%29)
 
 <br>
 {% cq %} 學生時期音樂老師放的影片就這麽活脫脫地出現在台上，一個在腦海裡播放， 一個發生在眼前，在此刻相互交織，匯集成新記憶 {% endcq %}
@@ -46,7 +46,7 @@ categories:
 + [「TodayTix」](https://www.todaytix.com/) ：有推出**Rush (當日限量票) 、Lottery (抽籤獲得便宜票)** 的功能，想使用Rush功能要下載「TodayTix」的 app。
    
 ### 參觀心得：
-+ 小學的音樂老師就在放歌劇魅影，那時候看就好喜歡，超級期待這次能看到真人演出，衣服很華麗，演員唱歌也很好聽，從演員的表情、肢體動作都看得出來他們很投入在角色內，看到尾聲情緒隨著演員波動，演出結束後感動到哭，超激動的！但<font color=#4287B5>受限於表演時長，有省略掉蠻多劇情有點可惜，建議事先了解一下劇情大綱，會比較融入其中。</font> 
++ 小學的音樂老師就在放歌劇魅影，那時候看就好喜歡，超級期待這次能看到真人演出，衣服很華麗，演員唱歌也很好聽，從演員的表情、肢體動作都看得出來他們很投入在角色內，看到尾聲情緒隨著演員波動，演出結束後感動到哭，超激動的！但**受限於表演時長，有省略掉蠻多劇情有點可惜，建議事先了解一下劇情大綱，會比較融入其中。**
 
 ### 圖片：
 + 場景很華麗，[「LW Theaters」](https://lwtheatres.co.uk/whats-on/the-phantom-of-the-opera/)有放幾張劇照可以看看。

@@ -14,7 +14,7 @@ categories:
 >**有使用london pass**，通票持有者無需提前預訂參觀時間。
 <!-- more -->
 >**參觀範圍**：總共有五個區域
->**鄰近景點**：<font color=#4599B6>倫敦塔</font>、<font color=#4599B6>波羅市場</font>、帝國戰爭博物館貝爾法斯特號館（HMS Belfast）、利德賀市場（Leadenhall Market）
+>**鄰近景點**：帝國戰爭博物館貝爾法斯特號館（HMS Belfast）、利德賀市場（Leadenhall Market）、[波羅市場](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-food/?highlight=%E6%B3%A2%E7%BE%85%E5%B8%82%E5%A0%B4)、[倫敦塔](https://taoudjiji.github.io/blog/london/L-spot/tower%20of%20london/?highlight=%E5%80%AB%E6%95%A6%E5%A1%94+%28tower+of+london%29) 
 
 <br>
 {% cq %} 塔樓內的樓梯很有氛圍，連接塔橋間的步道風景很棒，實際走在倫敦塔橋上更是欣喜，對我來說是驚喜滿滿的地方 {% endcq %}
@@ -53,7 +53,7 @@ categories:
 + [隱藏故事](https://www.towerbridge.org.uk/reveal-tower-bridges-hidden-stories)：包含塔橋上的大膽壯舉、幾十年來塔橋工作人員的故事、大螢幕上的塔橋、橋樑升降時間...。
 
 ### 散散步：
-+ 結束後我們沿著泰晤士河畔步道（The Riverside walk）散步，一路上都有很多攤販，風景也很棒，當天有出太陽，沿路吹著風慢慢晃到<font color=#4599B6>波羅市場(Borough Market) </font>很舒服。
++ 結束後我們沿著泰晤士河畔步道（The Riverside walk）散步，一路上都有很多攤販，風景也很棒，當天有出太陽，沿路吹著風慢慢晃到[波羅市場](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-food/?highlight=%E6%B3%A2%E7%BE%85%E5%B8%82%E5%A0%B4)很舒服。
 
 ### 相關文章：
-+ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 
++ [【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)

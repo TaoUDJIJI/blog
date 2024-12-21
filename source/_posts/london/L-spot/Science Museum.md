@@ -13,7 +13,8 @@ categories:
 >**本人喜好程度**：🌝 x4，旅伴喜好程度：🌝 x4
 >**遊玩時長**：1hr (建議抓1.5~2hr）
 <!-- more -->
->**鄰近景點**：<font color=#4599B6>自然史博物館</font>、<font color=#4599B6>維多利亞與亞伯特博物館</font>、皇家阿爾伯特音樂廳
+>**鄰近景點**：皇家阿爾伯特音樂廳、[自然史博物館](https://taoudjiji.github.io/blog/london/L-spot/Natural%20History%20Museum/?highlight=%E8%87%AA%E7%84%B6%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8+%28natural+history+museum%29)、[維多利亞與亞伯特博物館](https://taoudjiji.github.io/blog/london/L-spot/VA%20Museum/?highlight=%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E8%88%87%E4%BA%9E%E4%BC%AF%E7%89%B9%E5%8D%9A%E7%89%A9%E9%A4%A8+%28victoria+and+albert+museum%29)
+
 （Royal Albert Hall）
 
 <br>

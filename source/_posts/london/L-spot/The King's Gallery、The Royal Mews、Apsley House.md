@@ -1,5 +1,5 @@
 ---
-title: 【倫敦-景點】白金漢宮的國王畫廊 (The King's Gallery, Buckingham Palace)、皇家馬廄 (The Royal Mews)、阿普斯利邸宅 (Apsley House)
+title: 【倫敦-景點】白金漢宮的國王畫廊 (The King's Gallery)、皇家馬廄 (The Royal Mews)、阿普斯利邸宅 (Apsley House)
 date: 2024-11-1 00:00:06
 updated: 2024-11-1 00:00:06
 tags:
@@ -13,7 +13,7 @@ categories:
 >**三個景點皆可使用london pass**，通票持有者無需提前預訂參觀時間。
 >**改名**：2023年12月，「白金漢宮的女王畫廊」改名為「白金漢宮的國王畫廊」。
 <!-- more -->
->**有再訪意願**：都是事先有安排的行程，但實際旅行時沒去到，沒去的原因可參考<font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font>
+>**有再訪意願**：都是事先有安排的行程，但實際旅行時沒去到，沒去的原因可參考[【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)
 
 ### 白金漢宮的國王畫廊：
 + **網址：** [London pass官網](https://londonpass.com/en-us/london-attractions/The-Queens-Gallery)、[景點官網](https://www.rct.uk/visit/the-queens-gallery-buckingham-palace#/book_tickets) 
@@ -57,6 +57,3 @@ categories:
 + [活動](https://www.wellingtoncollection.co.uk/events/)
 + [內飾](https://www.wellingtoncollection.co.uk/interiors/)
 + [收藏品](https://www.wellingtoncollection.co.uk/the-wellington-collection/)
-
-### 相關文章：
-+ <font color=#4599B6>【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？</font> 

@@ -14,7 +14,7 @@ categories:
 >**停留時長**：30min
 <!-- more -->
 >**有再訪意願**：這次只有逛紀念品店，沒有買票進入博物館內參觀
->**鄰近景點**：<font color=#4599B6>Frameless Immersive Art Experience</font>、	Disney Store玩具店、倫敦杜莎夫人蠟像館（Madame Tussauds London）、攝政公園（The Regent's Park）、London Zoo動物園
+>**鄰近景點**：	Disney Store玩具店、倫敦杜莎夫人蠟像館（Madame Tussauds London）、攝政公園（The Regent's Park）、London Zoo動物園、[Frameless Immersive Art Experience](https://taoudjiji.github.io/blog/london/L-spot/Frameless%20Immersive%20Art%20Experience/?highlight=frameless+immersive+art+experience)
 
 <br>
 {% cq %} 進入一個跨時空住宅，滿是溫馨的聖誕節裝飾，內心升起一個小暖爐，非常溫暖 {% endcq %}
