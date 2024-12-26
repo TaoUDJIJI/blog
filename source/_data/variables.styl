@@ -1,3 +1,58 @@
 // 圆角设置
-$border-radius-inner     = 15px;
-$border-radius           = 15px;
+$border-radius-inner     = 30px;
+$border-radius           = 30px;
+
+//自定義文字色塊
+span#inline-blue, span#inline-green, span#inline-purple, span#inline-red {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 90%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    vertical-align: baseline;
+    border-radius: 0;
+    white-space: nowrap;
+}
+span#inline-blue {
+    background-color:rgb(101, 162, 231);
+}
+span#inline-purple {
+    background-color:rgb(171, 121, 196);
+}
+span#inline-red {
+    background-color:rgb(232, 121, 107);
+}
+span#inline-green {
+    background-color: #5cb85c;
+}
+
+
+//自定義NOTE
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.alert-green {
+    color: rgb(77, 84, 88);
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.alert-blue {
+    color:rgb(77, 84, 88);
+    background-color:rgb(225, 239, 247);
+    border-color:rgb(187, 215, 229);
+}
+.alert-yellow {
+    color:rgb(77, 84, 88);
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+.alert-red {
+    color: rgb(77, 84, 88);
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
