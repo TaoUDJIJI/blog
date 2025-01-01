@@ -1,5 +1,5 @@
 ---
-title: 【倫敦-景點】小威尼斯(little venice)-Rembrandt Gardens
+title: 【倫敦-景點】小威尼斯（little venice)-Rembrandt Gardens
 date: 2024-11-1 00:00:14
 updated: 2024-11-1 00:00:14
 tags:
@@ -26,16 +26,16 @@ categories:
 ### 參觀心得：
 我是搭公車去的，在倫敦搭公車非常方便，可參考[【倫敦-交通】倫敦「公車」怎麼搭？實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-bus/?highlight=%E5%80%AB%E6%95%A6%E3%80%8C%E5%85%AC%E8%BB%8A%E3%80%8D)，下公車後用google map導航到「Rembrandt Gardens Little Venice公園」，走路很快就會抵達。公園很美欸！是個很放鬆的景點，有鴨子在水中游泳、有綠地和枯樹，還有船停靠在岸邊，很漂亮很喜歡～
 + 一下公車的下車地點，右圖是早上8.9點的日出（冬天的日出都挺晚的
-![Imgur](https://i.imgur.com/BjpeLwG.jpeg)
+<img src="https://i.imgur.com/BjpeLwG.jpeg" width="90%" height="90%">
 + 公園的入口，有草地就是讚嘿嘿
-![Imgur](https://i.imgur.com/wiTp7PS.jpeg)
+<img src="https://i.imgur.com/wiTp7PS.jpeg" width="90%" height="90%">
 + 超耐斯的放鬆長椅，可以坐在這邊看船
-![Imgur](https://i.imgur.com/2Cljbj1.jpeg)
+<img src="https://i.imgur.com/2Cljbj1.jpeg" width="90%" height="90%">
 + 水里有可愛鴨子在戲水，看著牠們玩很療癒
-![Imgur](https://i.imgur.com/hdfxZCj.jpeg)
+<img src="https://i.imgur.com/hdfxZCj.jpeg" width="90%" height="90%">
 + 從公園可以沿著水路走到星巴克跟超市
-![Imgur](https://i.imgur.com/lEhjkBB.jpeg)
+<img src="https://i.imgur.com/lEhjkBB.jpeg" width="90%" height="90%">
 + 左圖：一艘停靠的船。右圖：是超市，我有跑進去買水
-![Imgur](https://i.imgur.com/olTc7kd.jpeg)
+<img src="https://i.imgur.com/olTc7kd.jpeg" width="90%" height="90%">
 + 我是點太妃核果那堤（Toffee Nut Latte：5.2英鎊），加 cream 好喝，自助區有很多調料粉可以加，其中兩罐是香草粉、巧克力粉。
-![Imgur](https://i.imgur.com/2RUDjQy.jpeg)
+<img src="https://i.imgur.com/2RUDjQy.jpeg" width="90%" height="90%">

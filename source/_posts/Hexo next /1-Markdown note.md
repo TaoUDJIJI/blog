@@ -100,6 +100,26 @@ categories:
  {% cq %} 你好，我好，大家好 {% endcq %}
  ```
 
+### 文字靠左：
+<p align="left">我在左邊</p> 
+ ``` 
+<p align="left">我在左邊</p> 
+ ``` 
+
+### 文字置中：
+ <center>我在中間</center>
+ ``` 
+ <center>我在中間</center>
+ ``` 
+
+
+### 文字靠右：
+<p align="right">我在右邊</p>
+ ``` 
+<p align="right">我在右邊</p>
+ ``` 
+
+
 ### 程式區塊：
 + 成果：下方灰色方框
 + 語法1：

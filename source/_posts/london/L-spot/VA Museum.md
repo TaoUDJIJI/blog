@@ -36,7 +36,16 @@ categories:
 。**四樓** ：家俱
 + [手機遊戲](https://www.vam.ac.uk/articles/secret-seekers)：
 任何擁有智慧型手機或平板電腦的人都可以玩這款遊戲，遊戲採用原創插圖和動畫，生動地展現了博物館的個性——從創始人阿爾伯特親王和第一位餐廳經理塞萊斯特夫人，到博物館建築師福克船長和亨利·科爾，其第一任董事。
-
+ <img src="https://i.imgur.com/7j6QScv.png" width="50%" height="50%">
+  
 ### 參觀心得：
-+ 除了展品很美外，最喜歡雕像、瓷器，內部建築本身也很漂亮～館內有廁所但可惜沒有很乾淨，但畢竟是免費的已經很感謝了！！
++ 館藏超豐富，最喜歡雕像、瓷器，內部建築本身也很漂亮～館內有廁所但可惜沒有很乾淨，但畢竟是免費的已經很感謝了！！
+   <img src="https://i.imgur.com/loezFLF.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/6ZqS0sG.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/QKTyMOk.jpeg"  width="65%" height="65%">
+   <img src="https://i.imgur.com/0GgBDt7.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/iXguvNp.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/ZBgv6Rd.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/zA9h0vX.jpeg" width="65%" height="65%">
+   <img src="https://i.imgur.com/mH9XrqR.jpeg" width="65%" height="65%">        
 
