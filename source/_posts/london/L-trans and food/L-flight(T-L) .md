@@ -21,6 +21,8 @@ categories:
 **<font color=#909497>比起飛時間提早3hr抵達</font>**
 + <font color=#c36d67>台北搭機捷前往桃園機場</font> 
 從捷運「北門站」下車，往「桃園機場」的直達車在1、2號月台，每15min有一班車，若是要到桃機第二航廈，要坐1hr30min，建議時間抓早一點，這樣如果車廂很滿的話還有時間等下一班，畢竟拿行李站著不是很方便。
+<img src="https://i.imgur.com/KgXYjAP.png" width="100%" height="100%">
+
 + <font color=#c36d67>托運行李</font> 
 Q：阿聯酋app顯示，<font color=#4287B5>線上報到的人只能領取台北-杜拜的「電子機票」 ，而杜拜-倫敦的機票要到杜拜當地的櫃檯報到領取「紙本機票」。</font>
 A：<font color=#4287B5>可以在台灣的托運櫃檯說要先領第二段的「紙本機票」</font>，這樣就不用到杜拜當地櫃檯報到。<br>（我有先領，非常建議在台灣先領，像我轉機的時間是兩小時，其實就蠻趕，沒辦法停下腳步逛商店，因為台灣飛往杜拜的飛機有延遲，加上杜拜機場又大，當天有搭航廈間的電車前往登機門。）
@@ -30,37 +32,44 @@ A：<font color=#4287B5>可以在台灣的托運櫃檯說要先領第二段的�
 + <font color=#c36d67>查驗護照</font>
 使用快速通關，沒有排隊。
 + <font color=#c36d67>機場探索-休憩區</font>
+。**休憩區：**
 有舒服椅子可以坐，但數量不多
-<img src="https://i.imgur.com/UOSKCLe.png" width="70%" height="70%">
+<img src="https://i.imgur.com/lleWWv7.png" width="100%" height="100%">
 
 。**飲水機：**
  因為水進海關前就先倒光，開始尋找飲水機，有發現一台飲水機，結果在製水中，沒辦法喝，其他的都是水流很小的生飲台，下樓候機後，終於有飲水機👍🏻，還有洗手間可使用。
 
 + <font color=#c36d67>登機後-經濟艙</font>
 。**座位：**有附枕頭、耳機、毛毯，另有發放飛機包，內附眼罩、襪子。
-。**飛機餐：**總共有兩餐（台灣時間01:10、台灣時間07:30）
-<img src="https://i.imgur.com/mS8CQq7.png" width="60%" height="60%">
+<img src="https://i.imgur.com/OR16fJ4.png" width="100%" height="100%">
+
+。**飛機餐**：總共有兩餐，圖中是兩人份的（台灣時間01:10、台灣時間07:30）
+<img src="https://i.imgur.com/76J3rhZ.png" width="90%" height="90%">
 
 ### 杜拜機場：
 + <font color=#c36d67>安檢</font>
 抵達機場後，會先進行簡易安檢，<font color=#4287B5>(如果有揹防盜腰包，要注意有沒有金屬拉鍊，有的話要取下包包，不然機器會嗶嗶嗶</font>，**在機場期間我把護照等重要物品都放在胸前的斜背包內，拿取比較方便**)，走到登機門後，會再執行一次蠻嚴格的安檢，鞋子也要脫掉，檢查完就可以等待登機了。
-<img src="https://i.imgur.com/nXzJDB8.png" width="70%" height="70%">
+   + 左圖為剛抵達機場，右圖為登機門
+   <img src="https://i.imgur.com/l3Nhbj3.png" width="100%" height="100%">
 
 + <font color=#c36d67>登機後-經濟艙</font>
-。**飛機餐：**總共有兩餐（杜拜時間09:30、杜拜時間13:10）
-<img src="https://i.imgur.com/05tEIHa.png" width="55%" height="55%">
+。**飛機餐：**總共有兩餐，圖中是兩人份的（杜拜時間09:30、杜拜時間13:10）
+<img src="https://i.imgur.com/32PT3c5.png" width="90%" height="90%">
 
 。**機上廁所：**
     ⚡️<font color=#4287B5>遇到亂流</font>需要強制繫安全帶的情形時，空姐會先把廁所鎖起來避免民眾使用，等解除安全帶警示後，才會把門鎖打開。話說，如果是上廁所到一半突然有亂流，為了旅客安全空姐會狂敲猛敲廁所門，叫旅客趕快出來，航行中看見兩次，要是是我在裡面會被嚇爆。
     ⚡️經觀察發現<font color=#4287B5>上面的大箭頭</font>代表<font> <u>正前方</u> </font> 左右兩側的廁所是否有人，<font color=#4287B5>下面的兩個箭頭</font>是代表<font> <u>後方的</u> </font> 廁所，總共有兩個面板可以看，左右側的座位都看得見廁所使用狀況（綠色代表沒人，紅色代表有人）。 
-    <img src="https://i.imgur.com/plBFrYS.png" width="70%" height="70%">
+    <img src="https://i.imgur.com/plBFrYS.png" width="90%" height="90%">
 ### 倫敦蓋威克機場：
 + <font color=#c36d67>過海關</font>
 海關人員很親切，只問我們英國的下一站要去哪邊，我一開始說荷蘭，他歪頭了一下表情看起來有點疑惑，就馬上補充說要去阿姆斯特丹，他就說歐～好的祝你們旅程愉快，就結束了，可能因為我前面一位也是台灣人，所以沒有特別問什麼問題。
 
 ### 倫敦蓋威克機場--->市區的交通：
 + **🚄 搭火車：蓋威克機場-->維多利亞火車站**
-飛機表定11:40降落，過完海關、等待托運行李，當天搭的車次是13:30的，可參考[【倫敦-交通】倫敦「火車」怎麼搭？(含往返蓋威克機場與市區) 實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-train/?highlight=%E5%80%AB%E6%95%A6+%E4%BA%A4%E9%80%9A)。
+飛機表定11:40降落於北航廈，而火車站在南航廈，所以需要搭乘機場內部電車到南航廈，抵達後就會看到蓋威克機場火車站，當天搭上的火車車次是13:30的，火車搭乘資訊可參考[【倫敦-交通】倫敦「火車」怎麼搭？(含往返蓋威克機場與市區) 實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-train/?highlight=%E5%80%AB%E6%95%A6+%E4%BA%A4%E9%80%9A)。
+<img src="https://i.imgur.com/g8jzxKH.png" width="100%" height="100%">
+<img src="https://i.imgur.com/mdJpRDS.png" width="100%" height="100%">
+
 + **🚇 搭地鐵：維多利亞地鐵站-->住宿**
 搭乘的注意事項可參考[【倫敦-交通】倫敦「地鐵」怎麼搭？實際搭乘分享](https://taoudjiji.github.io/blog/london/L-trans%20and%20food/L-tube/?highlight=%E3%80%90%E5%80%AB%E6%95%A6+%E4%BA%A4%E9%80%9A%E3%80%91%E5%80%AB%E6%95%A6%E3%80%8C%E5%9C%B0%E9%90%B5%E3%80%8D%E6%80%8E%E9%BA%BC%E6%90%AD%EF%BC%9F%E5%AF%A6%E9%9A%9B%E6%90%AD%E4%B9%98%E5%88%86%E4%BA%AB)。
 

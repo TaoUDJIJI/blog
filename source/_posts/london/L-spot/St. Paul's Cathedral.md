@@ -40,21 +40,21 @@ categories:
 + <font color=#4287B5>一樓、B1地穴：</font>
 跟著語音導覽的指示走就行，路線都非常清楚。
    + 這是一樓內部，裡面超漂亮的，還可以坐在座位聽語音導覽，導覽有說明壁畫背後的故事，因為是聖誕週有放一棵大大的聖誕樹（B1地穴主要是棺木，所以我都沒有拍照
-   <img src="https://i.imgur.com/h70WZH7.jpeg" width="70%" height="70%">
-   <img src="https://i.imgur.com/2JRFRQh.jpeg" width="70%" height="70%">
+   <img src="https://i.imgur.com/h70WZH7.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/2JRFRQh.jpeg" width="90%" height="90%">
 + <font color=#4287B5>廁所：</font>
 想上廁所的話要到B1地穴，去廁所前的通道會有工作人員在收耳機，因為那邊有出口可以通往外面，怕我們把耳機帶走了，還想繼續參觀的話跟工作人員說一聲等等還要進入就好，工作人員會請你記得耳機放置的位置，等等領回同一副耳機，廁所非常乾淨而且鏡子下方有感應烘手機、洗手乳，旁邊有商店可以逛。
 + <font color=#4287B5>向上爬樓梯：</font>
 在教堂內一樓通往樓上的樓梯口處，會有指標，使用London pass入場的只要出示Qrcode就可以進入樓梯往上爬，第一層可以近看穹頂畫，第二層、第三層都是看風景，差別在於圍牆的高度，接近黃昏時景色很美，樓梯蠻窄小，爬累的話中途有座位可休息，風景很值得。當時覺得爬得好累，殊不知[「聖斯德望主教座堂」的南塔](https://taoudjiji.github.io/blog/vieena/V-spot/Domkirche%20St.%20Stephan/?highlight=%E5%8D%97%E5%A1%94)
 才是大魔王。
    + 這是一樓內的樓梯入口處（ <i class="fa fa-exclamation-triangle"></i>**「向上爬的第一層」禁止拍照攝影** ）
-   <img src="https://i.imgur.com/caK2lXY.jpeg" width="70%" height="70%">
+   <img src="https://i.imgur.com/caK2lXY.jpeg" width="90%" height="90%">
    + 向上爬的第二層
-   <img src="https://i.imgur.com/JRCZ5ib.jpeg" width="70%" height="70%">
+   <img src="https://i.imgur.com/JRCZ5ib.jpeg" width="90%" height="90%">
    + 向上爬的第三層
-   <img src="https://i.imgur.com/e0Zoe2U.jpeg" width="70%" height="70%">   
+   <img src="https://i.imgur.com/e0Zoe2U.jpeg" width="90%" height="90%">
    + 左圖是第三層向外看的風景，右圖是從頂樓爬下來後看見一樓的告示牌（彌撒時間或16:30後禁止拍照攝影）
-   <img src="https://i.imgur.com/HBGFGGW.jpeg" width="70%" height="70%">      
+   <img src="https://i.imgur.com/HBGFGGW.jpeg" width="90%" height="90%">  
 
 
 + <font color=#4287B5>彌撒：</font>

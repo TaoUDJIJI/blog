@@ -20,18 +20,18 @@ categories:
 {% cq %} 進入一個跨時空住宅，滿是溫馨的聖誕節裝飾，內心升起一個小暖爐，非常溫暖 {% endcq %}
 <br>
 
-<img src="https://i.imgur.com/i8ErBCz.jpeg" width="50%" height="50%">
+<img src="https://i.imgur.com/i8ErBCz.jpeg" width="80%" height="80%">
 
 ### 福爾摩斯紀念品店：
 + [商品官網](https://shop.sherlock-holmes.co.uk/)
 + 即使沒買隔壁福爾摩斯博物館的門票也可以免費進商店歐
 + 像我有事先在官網選好想買的紀念品，是目的性購物嘿嘿，家人喜歡小提琴，在店內買了一個微型小提琴當作禮物，那時候臨近聖誕節，商店內有聖誕樹、一些聖誕裝飾，整體氛圍很有過節氣氛。 
    + 掌上型小提琴，實體小小的很精緻
-   <img src="https://i.imgur.com/XBjDBc1.jpeg" width="40%" height="40%">
+   <img src="https://i.imgur.com/XBjDBc1.jpeg" width="90%" height="90%">
    + 好喜歡這個氛圍感RRRRR   
-   <img src="https://i.imgur.com/VgnkmVa.jpeg" width="70%" height="70%">
+   <img src="https://i.imgur.com/VgnkmVa.jpeg" width="90%" height="90%">
    + 每個角落都佈置的好用心   
-   <img src="https://i.imgur.com/zFu510b.jpeg" width="70%" height="70%">
+   <img src="https://i.imgur.com/zFu510b.jpeg" width="90%" height="90%">
 
 ### 福爾摩斯博物館：
 + [博物館官網](https://www.sherlock-holmes.co.uk/)
@@ -52,4 +52,4 @@ categories:
 
 ### 福爾摩斯雕像
  + 在地鐵出口附近的裝置藝術
- <img src="https://i.imgur.com/rYs3rfS.jpeg" width="70%" height="70%">
+ <img src="https://i.imgur.com/rYs3rfS.jpeg" width="90%" height="90%">
