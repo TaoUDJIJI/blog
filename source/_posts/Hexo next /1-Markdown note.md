@@ -327,12 +327,12 @@ span#inline-green {
 
 <div class="alert alert-red"><i class="fa fa-bolt"></i>紅色</div>
 
-+ 說明：以下這些是圖標的語法。這種圖標叫fontawesome，[fontawesome官網](https://fontawesome.com/v6/search?o=r&m=free)還有很多免費圖標可以用哦，不需要登入就可以查詢。
++ 說明：以下這些是圖標的語法，如果不想要圖標的話，使用時把以下的語法刪掉就好。這種圖標叫fontawesome，[fontawesome官網](https://fontawesome.com/v6/search?o=r&m=free)還有很多免費圖標可以用哦，不需要登入就可以查詢。
 {% codeblock %}
-<i class="fa fa-arrow-circle-right"></i>    //藍框的圖標
-<i class="fa fa-bell"></i>                  //黃框的圖標
-<i class="fa fa-arrow-right"></i>           //綠框的圖標
-<i class="fa fa-bolt"></i>                  //紅框的圖標
+<i class="fa fa-arrow-circle-right"></i>    //藍框的圖標（圓框箭頭）
+<i class="fa fa-bell"></i>                  //黃框的圖標（鈴鐺）
+<i class="fa fa-arrow-right"></i>           //綠框的圖標（細箭頭）
+<i class="fa fa-bolt"></i>                  //紅框的圖標（閃電）
 {% endcodeblock %}
 
 + 說明：其他我也很喜歡的圖標：

@@ -9,7 +9,6 @@ categories:
   - 🥥 英國（倫敦） 
 ---
 >	住宿是有廚房的，旅程中主要透過超市、Pret來解決三餐，搜集了蠻多名單，分享給大家，實際走訪後，發現倫敦街頭蠻多超市。
-
 <!-- more -->
 
 ### 超市：
@@ -76,7 +75,7 @@ categories:
 ### Honest Burgers South Kensington:
 >	本人喜好程度：🌝🌝🌝🌝，旅伴喜好程度：🌝🌝🌝🌝
 + [官網]( https://www.honestburgers.co.uk/locations/south-kensington/) 
-+ 外帶排了20分鐘，但旁邊有商店可以逛不會無聊，水牛醬雞排偏死鹹，聖誕素食好吃，兩個漢堡含兩份薯條的價格是台幣600多。
++ 外帶排了20分鐘，但旁邊有商店可以逛不會無聊，水牛醬雞排偏死鹹，聖誕素食好吃，兩個漢堡含兩份薯條的價格是台幣600多，薯條很香很好吃。
 <img src="https://i.imgur.com/nEvb0t4.png" width="90%" height="90%">
 
 ### burgers and lobster 龍蝦餐廳：
