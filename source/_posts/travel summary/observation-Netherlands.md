@@ -49,7 +49,7 @@ categories:
 + 左圖：坐上火車出發。右圖：房子顏色繽紛很美
 <img src="https://i.imgur.com/jdariMe.jpg" width="100%" height="100%">
 + 左圖：路上在施工，有好大一個洞。右圖：記錄一下這邊的運河
-<img src="https://i.imgur.com/lGv6AKb.jpg" width="100%" height="100%">
+<img src="https://i.imgur.com/d20rrLz.jpg" width="100%" height="100%">
 
 ## <font color=#4287B5>馬斯垂克</font> 
 #### 觀察紀錄：

@@ -12,9 +12,8 @@ categories:
 <!-- more -->
 
 ### 靠近市中心的火車站：
-+ 「Wien Westbahnhof」、「Wien Mitte-Landstraße Bahnhof」、「Wien Hbf（Hauptbahnhof）」、「Bahnhof Meidling」。這次旅行我住在「Wien Hbf」這站，很便利，走路即可抵達超市。
-
-   我拿地鐵篇的圖片來用，有圈出四個在市區附近的火車站，以這四個來說，右上角的藍框離市中心最近，左下角的藍框離市中心最遠。
++ 我拿[地鐵篇](https://taoudjiji.github.io/blog/vieena/V-trans%20and%20food/V-Ubahn/)的圖片來用，有圈出四個在市區附近的火車站，分別為「Wien Westbahnhof」、「Wien Mitte-Landstraße Bahnhof」、「Wien Hbf（Hauptbahnhof）」、「Bahnhof Meidling」。
++ 以這四個來說，右上角的藍框離市中心最近，左下角的藍框離市中心最遠。這次旅行我住在「Wien Hbf」這站，覺得很方便，走路就可以抵達超市。
    <img src="https://i.imgur.com/thBBnah.jpg" width="100%" height="100%">
 
 ### 搭乘選項：

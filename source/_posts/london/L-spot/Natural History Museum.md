@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】自然史博物館 (Natural History Museum) 
 date: 2024-11-1 00:00:11
-updated: 2024-11-1 00:00:11
+updated: 2025-1-12 00:00:11
 tags:
   - 倫敦-景點
   - 免費景點    
@@ -28,27 +28,27 @@ categories:
 。沒有正式的服裝要求、有衣帽間可使用、適合輪椅族
 。不能攜帶自己的酒類入場
 。無法退款或更改
-<img src="https://i.imgur.com/mahugL5.png" width="90%" height="90%">
+<img src="https://i.imgur.com/yJd5xFM.jpg" width="100%" height="100%">
 
 ### 參觀動線：
 + 有兩個入口，一個是<font color=#4287B5>**「Hintze Hall」**，</font> 位於Cromwell Road，另一個是<font color=#4287B5>**「Earth Hall」**</font> ，位於Exhibition Road。
-<img src="https://i.imgur.com/pcBEenk.jpeg" width="75%" height="75%">
+<img src="https://i.imgur.com/F09Tend.jpg" width="85%" height="85%">
 
 + 若是從<font color=#4287B5>**「Earth Hall」**</font> 的入口進入，一樓有地心電梯，這棟是普通建築，但往樓下走有連接通道，可以穿過去另一個區域到 Central Hall ，那邊的建築就很華麗超美。
-<img src="https://i.imgur.com/1sq6IC8.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/GBuTWbH.jpg" width="100%" height="100%">
 
 + 如果想直接參觀 Central Hall 華麗建築的話，就從<font color=#4287B5>**「Hintze Hall」**，</font>的入口進入。
 
 ### 參觀心得：
 + 我是從「Earth Hall」入口進去，參觀日是12月中的禮拜五下午，人潮蠻多，在展間參觀時會感到擁擠，華麗建築是真的很漂亮，但因為人太多所以不想停留太久，覺得胸悶難呼吸阿阿，在紀念品商店買了一張可愛的明信片～
-   + 好美的標本
-   <img src="https://i.imgur.com/YUag1dD.jpeg" width="90%" height="90%">
+   + 好美的展示品
+   <img src="https://i.imgur.com/U5Chiab.jpg" width="100%" height="100%">
 
    + 這就是我說的華麗建築～讓我聯想到「博物館驚魂夜」的電影
-   <img src="https://i.imgur.com/70Bhx7Y.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/8CXjVHB.jpg" width="100%" height="100%">
    + 暖色調真的很有電影氛圍
-   <img src="https://i.imgur.com/z9HOnCq.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/EeEluzQ.jpg" width="100%" height="100%">
    + 紀念品商店在這，蠻好逛的，看到這張明信片超喜歡，立馬帶走
-   <img src="https://i.imgur.com/QsiCrZ9.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/7MPTYly.jpg" width="100%" height="100%">
    + 廁所大使來了，把握每次免費上廁所的機會！
-   <img src="https://i.imgur.com/6CuTyPn.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/KkNsGf3.jpg" width="100%" height="100%">

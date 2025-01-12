@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】西敏寺 (Westminster Abbey)
 date: 2024-11-1 00:00:02
-updated: 2024-11-1 00:00:02
+updated: 2025-1-12 00:00:02
 tags:
   - 倫敦-景點
 categories: 
@@ -33,32 +33,32 @@ categories:
 
 + [教堂的歷史]( https://www.westminster-abbey.org/history/?_gl=1*1onmuyo*_up*MQ..*_ga*MTg4MzUyMzQ2MS4xNzI1MTEwNDk5*_ga_DHMS4WRT6Q*MTcyNTExMDQ5OS4xLjAuMTcyNTExMDQ5OS4wLjAuMA)：
 深入探討一些有趣的主題，可以了解背後的故事，網站內很仔細的介紹相關人物、建築的細節，很適合作為出發前的預習，蠻多都是當天語音導覽沒有提到的內容。
- <img src="https://i.imgur.com/gaCk7AP.png" width="90%" height="90%">
+ <img src="https://i.imgur.com/yB0wzBx.jpg" width="100%" height="100%"> 
 
 + [虛擬導覽](https://www.westminster-abbey.org/learning/virtual-tours/)：
 旁邊還有附文字解說哦，超讚
- <img src="https://i.imgur.com/3M0XLUZ.png" width="85%" height="85%">
+ <img src="https://i.imgur.com/A8TN9Og.jpg" width="90%" height="90%"> 
 
 ### 參觀動線：
 + **內部一樓：**
  語音導覽總共有 17 處，每部影片約 3 分鐘內，內部很大，跟著導覽全部走完約 1 小時，主要參觀陵墓，細節滿滿，馬賽克窗很精緻，走完整圈沒特別看到廁所標誌。 
- <img src="https://i.imgur.com/bI68azc.jpeg" width="90%" height="90%">
- <img src="https://i.imgur.com/5CAirGp.jpeg" width="90%" height="90%">
- <img src="https://i.imgur.com/RggSZmB.jpeg" width="90%" height="90%">
- <img src="https://i.imgur.com/VOYcGDI.jpeg" width="90%" height="90%">
+ <img src="https://i.imgur.com/fjEpy50.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/SlzQ91X.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/lHplngL.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/ANZjYuj.jpg" width="100%" height="100%"> 
 
 + **二樓額外收費展覽（the queen diamond）：**
  成人每人5英鎊，可付現金，可搭乘電梯也可爬樓梯，很推薦爬樓梯，光是樓梯本身就有很多地方能欣賞，窗外的景色優美，<font color=#c36d67>抵達樓上後不能拍照。</font>天花板、地板都是木質地，氛圍很溫暖和舒服，參觀時間約40分鐘，主要展示雕像、服裝、馬賽克、人體模型、畫…許多藝術品。是一整圈的迴廊，站在欄杆旁往下、往上看皆一覽無遺，無隔護網，可以用更多角度觀賞教堂，非常值得。
- <img src="https://i.imgur.com/P2RIce4.png" width="90%" height="90%">
- <img src="https://i.imgur.com/uA4rA6U.jpeg" width="90%" height="90%">
- <img src="https://i.imgur.com/m0oOy0j.jpeg" width="90%" height="90%">
- <img src="https://i.imgur.com/bfE8sds.jpeg" width="90%" height="90%">
+ <img src="https://i.imgur.com/dNfUNBf.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/m9VSnB8.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/bYX8FI3.jpg" width="100%" height="100%"> 
+ <img src="https://i.imgur.com/gYKIQq1.jpg" width="100%" height="100%"> 
 
 + **迴廊、花園、廁所：**
  迴廊蠻大的，有座位可以休息，還有兩三個小房間可以參觀，花園則是小小的，氛圍很棒。廁所在迴廊處，而非西敏寺內，將耳機交還於西敏寺內的工作人員後就可以前往迴廊，沿路會有廁所指標。
-<img src="https://i.imgur.com/udS3Elq.jpeg" width="90%" height="90%">
-<img src="https://i.imgur.com/C8Ntt2A.jpeg" width="90%" height="90%">
-<img src="https://i.imgur.com/6sVr4KH.png" width="90%" height="90%">
+<img src="https://i.imgur.com/NT0Dq1n.jpg" width="100%" height="100%"> 
+<img src="https://i.imgur.com/OpBYyLF.jpg" width="100%" height="100%"> 
+<img src="https://i.imgur.com/Xjp1ClP.jpg" width="100%" height="100%"> 
 
 ### 相關文章：
 + [【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)

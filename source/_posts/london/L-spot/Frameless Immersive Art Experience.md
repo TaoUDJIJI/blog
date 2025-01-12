@@ -29,13 +29,13 @@ categories:
   + 因為是整個空間的全面式體驗，包含地板、天花板、所有牆壁都有視覺效果，我是12月中的平日去參觀，目測每個展間不超過20個人，有些展間大家安靜的坐著欣賞，有些就比較隨意些有小孩到處奔跑，得碰碰運氣，如果是在熱門時段前往，就**要考慮一下能不能接受人影在面前晃來晃去、小朋友嬉戲或哭鬧的情況。**
 
 + 天氣很好～～記錄一下，左圖進去前拍的，右圖是逛完後太陽準備要下山了
-<img src="https://i.imgur.com/BZ11PTY.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/4zPPAcQ.jpg" width="100%" height="100%">
 + 一進去就是火山噴發的場景，還有大風浪中的船隻
-<img src="https://i.imgur.com/ObwQowY.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/G526x8R.jpg" width="100%" height="100%">
 + 夢幻的世界，還有名畫場景
-<img src="https://i.imgur.com/V3etMMO.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/Lg3r3Vg.jpg" width="100%" height="100%">
 + 剛好拍到一個跑到閃現的小朋友
-<img src="https://i.imgur.com/rOS8kCw.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/dgWbbFn.jpg" width="100%" height="100%">
 
 ### 相關文章：
 + [【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)

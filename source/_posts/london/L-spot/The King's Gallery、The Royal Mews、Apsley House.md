@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】白金漢宮的國王畫廊 (The King's Gallery)、皇家馬廄 (The Royal Mews)、阿普斯利邸宅 (Apsley House)
 date: 2024-11-1 00:00:06
-updated: 2024-11-1 00:00:06
+updated: 2025-1-12 00:00:06
 tags:
   - 倫敦-景點
   - 會再訪
@@ -16,7 +16,7 @@ categories:
 >**有再訪意願**：都是事先有安排的行程，但實際旅行時沒去到，沒去的原因可參考[【倫敦-行程表】六天五夜倫敦遊-行程時間表、London pass：探索者通行證、全天暢遊通行證是什麼？涵括的景點有哪些、該如何使用？](https://taoudjiji.github.io/blog/london/L-spot/L-schedule%20/?highlight=%E5%80%AB%E6%95%A6+%E8%A1%8C%E7%A8%8B%E8%A1%A8)
 
 ## 白金漢宮的國王畫廊：
-<img src="https://i.imgur.com/kyC3XVa.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/OzXA86a.jpg" width="90%" height="90%">
 
 #### 網址： [London pass官網](https://londonpass.com/en-us/london-attractions/The-Queens-Gallery)、[景點官網](https://www.rct.uk/visit/the-queens-gallery-buckingham-palace#/book_tickets) 
 
@@ -33,17 +33,17 @@ categories:
 
  #### 圖片：
    + 不定期會有展覽展出，像這個是2025年4月的展，好美
-   <img src="https://i.imgur.com/NIQKv5J.png" width="90%" height="90%">
+   <img src="https://i.imgur.com/iallJUN.jpg" width="100%" height="100%">
    + 內部大概長這樣，因為沒有實際進去過，上官網查的
-   <img src="https://i.imgur.com/iTE2Bo3.jpeg" width="90%" height="90%">
-   <img src="https://i.imgur.com/3Ilz1fy.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/ClWdjHq.jpg" width="100%" height="100%">
+   <img src="https://i.imgur.com/cqIEHyU.jpg" width="100%" height="100%">
 
 ## 皇家馬廄：
 #### 網址： [London pass官網](https://londonpass.com/en-us/london-attractions/royal-mews)、[景點官網](https://www.rct.uk/visit/the-royal-mews-buckingham-palace) 
 
 #### 背景：
 + 皇家馬厩建於 1825 年。在亨利七世統治之前的大約 100 年裡，一直位於倫敦國家美術館現址的查令十字街。皇家馬厩負責在國王和王室成員在加冕典禮、議會開幕式和國家元首訪問等國家活動期間使用，且每年約有 50 趟馬車載著新任命的高級專員和大使前往白金漢宮向君主遞交國書。最新加入皇家馬車系列的馬車是鑽禧國家馬車，它是為紀念伊麗莎白二世女王登基五十週年而建造的。
-<img src="https://i.imgur.com/LlW59eT.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/kxTULTc.jpg" width="100%" height="100%">
 
 #### 參觀資訊：
 + [網址點入內](https://www.rct.uk/visit/the-royal-mews-buckingham-palace/practical-information-for-visiting-the-royal-mews)
@@ -56,14 +56,14 @@ categories:
 #### 導遊服務：
 + [網址點入內](https://www.rct.uk/visit/the-royal-mews-buckingham-palace/highlights-of-the-royal-mews##guidedtour)
 在工作人員帶領下免費參觀皇家馬厩45分鐘，會介紹歷史悠久的馬車和現代汽車，並說明為了重大國家和儀式場合所需準備的前置作業。遊覽時間為每天 10:15、11:00、12:00、13:00、14:00、15:00 和 16:00。集合點位於馬廄的正對面。也在週六和週日的 11:30 和 13:30 提供特別的家庭旅遊。
-<img src="https://i.imgur.com/thiW0GC.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/NquhwFK.jpg" width="100%" height="100%">
 
 #### 互動地圖：
 + [網址點入內](https://interactives.rct.uk/maps/royal_mews.html?_ga=2.93412189.1391228961.1734314321-469613943.1734314321)
-<img src="https://i.imgur.com/77PW03Z.png" width="90%" height="90%">
+<img src="https://i.imgur.com/67eKgPn.jpg" width="90%" height="90%">
 
 ## 阿普斯利邸宅 Apsley House
-<img src="https://i.imgur.com/i4fQ6et.png" width="80%" height="80%">
+<img src="https://i.imgur.com/6BoKKxi.jpg" width="80%" height="80%">
 
 #### 網址：[London pass官網](https://londonpass.com/en-us/london-attractions/apsley-house)、[景點官網](https://www.wellingtoncollection.co.uk/plan-your-visit/) 
 
@@ -74,10 +74,10 @@ categories:
 
 #### 參觀資訊：
 + [活動](https://www.wellingtoncollection.co.uk/events/)
-<img src="https://i.imgur.com/aeXQQjv.png" width="90%" height="90%">
+<img src="https://i.imgur.com/Q3hBbHX.jpg" width="90%" height="90%">
 
 + [內飾](https://www.wellingtoncollection.co.uk/interiors/)
-<img src="https://i.imgur.com/nqjF7Ih.png" width="80%" height="80%">
+<img src="https://i.imgur.com/tAv9wlJ.jpg" width="90%" height="90%">
 
 + [收藏品](https://www.wellingtoncollection.co.uk/the-wellington-collection/)
-<img src="https://i.imgur.com/MGJeM4M.png" width="90%" height="90%">
+<img src="https://i.imgur.com/jWy2jiC.jpg" width="90%" height="90%">

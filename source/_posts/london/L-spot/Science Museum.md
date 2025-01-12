@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】科學博物館 (Science Museum) 
 date: 2024-11-1 00:00:09
-updated: 2024-11-1 00:00:09
+updated: 2025-1-12 00:00:09
 tags:
   - 倫敦-景點
   - 免費景點    
@@ -27,15 +27,15 @@ categories:
 + [場館地圖](https://www.sciencemuseum.org.uk/sites/default/files/2024-01/science-museum-map-jan-24.pdf)：場館是 -1~3 樓
 + [自助儲物櫃](https://www.sciencemuseum.org.uk/visit/visit-faqs)：**自助儲物櫃位於博物館的 -1 層，只能刷卡支付。**
 + [館方收藏](https://collection.sciencemuseumgroup.org.uk/search/objects/museum/science-museum)：面向很多，例如展示日常生活物品、醫學用品、交通工具....，有看到很特別的展品是「瓶裝恆河水」，依展品說明指出2016年7月，印度推出了一項計劃，在印度各地的郵局以低價出售瓶裝恆河水，亦輸出國外販售。
-<img src="https://i.imgur.com/FMfA3pf.png" width="100%" height="100%">
+<img src="https://i.imgur.com/Pcd6FOX.jpg" width="100%" height="100%">
 
 ### 參觀心得：
-+ 相較於自然史博物館，這裡參觀人數較少，參觀起來是舒服的不會擁擠，空間很大。有展示很多大型物件，例如飛機、衛星、汽車….尤其飛機特別多，還有漂亮的鐘錶。
-   + 有超多層樓可以逛，有免費廁所
-   <img src="https://i.imgur.com/MGZWHkK.jpeg" width="90%" height="90%">
++ 相較於自然史博物館，這裡參觀人數較少，參觀起來是舒服的不會擁擠，空間很大，有展示很多大型物件，例如飛機、衛星、汽車….尤其飛機特別多，還有漂亮的鐘錶。
+   + 有超多層樓可以逛，每層樓展品的風格不太一樣，有免費廁所
+   <img src="https://i.imgur.com/hhqDw52.jpg" width="100%" height="100%">
    + 一艘大模型船，這輛腳踏車超高的
-   <img src="https://i.imgur.com/77KYCJB.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/16i2BhW.jpg" width="100%" height="100%">
    + 喜歡很大的展品，真氣派！
-   <img src="https://i.imgur.com/QlHwIrp.jpeg" width="90%" height="90%">
-   + 每層樓展品的風格不太一樣
-   <img src="https://i.imgur.com/FuqfEdY.jpeg" width="90%" height="90%">
+   <img src="https://i.imgur.com/4M60cuH.jpg" width="100%" height="100%">
+   + 不同層展示品的風格不太一樣，有很精緻的鐘錶
+   <img src="https://i.imgur.com/pV07BCx.jpg" width="100%" height="100%">   
