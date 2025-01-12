@@ -1,7 +1,7 @@
 ---
 title: 【阿姆斯特丹-景點】西教堂 (Westerkerk) 
 date: 2024-11-2 00:00:02
-updated: 2024-11-2 00:00:02
+updated: 2025-1-11 00:00:02
 tags:
   - 荷蘭-阿姆斯特丹.烏特勒支
   - 免費景點      
@@ -16,21 +16,22 @@ categories:
 
 ### 簡要介紹：
 + <font color=#4287B5>西教堂：</font> 
-Hendrick de Keyser是西教堂的建築師。該教堂由阿姆斯特丹市議會委託，於 1620年至1631年間建造。雖然西教堂不是阿姆斯特丹建造的第一座新教教堂，但它是世界上第一座最大的新教教堂。
+Hendrick de Keyser是西教堂的建築師。該教堂由阿姆斯特丹市議會委託，於 1620年至1631年間建造。雖然西教堂不是阿姆斯特丹建造的第一座新教教堂，但它是世界上第一座最大的新教教堂。(圖片來源為官網)
+
+<img src="https://i.imgur.com/UnJKie8.jpg" width="100%" height="100%">
+
 + <font color=#4287B5>西教堂塔：</font> 
 是阿姆斯特丹最高的教會塔樓，高85公尺，西教堂塔經常成為阿姆斯特丹民謠的主題，甚至在安妮法蘭克著名的日記中也被提及。
-### 開放時間-注意事項：
-+ 西教堂塔：<font color=#c36d67>2023年和2024年，該塔將進行修復並對遊客關閉。</font>
 
 ### 入場費：
 + 不收取參觀費用。但接受捐款以幫助維持教會的維護
 
 ### 音樂活動：
-+ [管風琴音樂會](https://westerkerk.nl/orgelconcerten/)
 + [音樂會](https://westerkerk.nl/concertseries-westerkerk-amsterdam/)
- 
-### 新年特別活動：
-+ 新年音樂會
++ [管風琴音樂會](https://westerkerk.nl/orgelconcerten/)：
+有新年音樂會，以2024年為例，舉辦在1月5日，而2025年舉辦在1月11日。
+<img src="https://i.imgur.com/ms2Bbwk.jpg" width="100%" height="100%">
 
 ### 線上360° 參訪西教堂：
 + [網址](https://tours.360spotz.com/v/KGEjEyvZjQv)
+<img src="https://i.imgur.com/AVtNKEF.jpg" width="100%" height="100%">

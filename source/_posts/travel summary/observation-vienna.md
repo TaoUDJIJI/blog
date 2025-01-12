@@ -1,7 +1,7 @@
 ---
 title: 【旅行-概要】國家觀察篇-維也納
 date: 2025-1-3 00:53:04
-updated: 2025-1-3 00:53:04
+updated: 2025-1-11 00:53:04
 tags:
   - 行李攜帶、觀察紀錄
 categories: 
@@ -21,12 +21,13 @@ categories:
 
 ### 圖片：
 + 左圖：從機場搭往市區的火車風景，很美，很像windows桌布
-<img src="https://i.imgur.com/QoOt4jP.png" width="90%" height="90%">
-+ 左圖：一開始根本找不到按鈕一直亂摸哈哈，後來剛好有人，趕快偷偷看一下是按哪裡
-<img src="https://i.imgur.com/9pRgOMi.png" width="90%" height="90%">
+<img src="https://i.imgur.com/olTProG.jpg" width="100%" height="100%">
+
++ 左圖：一開始根本找不到按鈕一直亂摸哈哈，後來剛好有人也要過馬路，趕快退到旁邊，偷偷看一下是按哪裡。右圖是在[聖斯德望主教座堂](https://taoudjiji.github.io/blog/vieena/V-spot/Domkirche%20St.%20Stephan/)遇見的馬車，會跟人、車共用道路，在那附近要小心別踩到馬糞
+<img src="https://i.imgur.com/6oMTrFy.jpg" width="100%" height="100%">
 + 剛好看見垃圾車超幸運！垃圾車、垃圾桶都是橘色的
-<img src="https://i.imgur.com/n8YbFO2.png" width="90%" height="90%">
+<img src="https://i.imgur.com/yFH7lT3.jpg" width="100%" height="100%">
 + 一片霧茫茫，這是跨年當天的天氣，冷爆
-<img src="https://i.imgur.com/d1xvMr7.png" width="90%" height="90%">
-+ 左圖：安可鐘，就在一家超市旁邊，買完剛好發現有不少人聚集，人物會一直替換移動，白天是綠色的，晚上是紫色的，很漂亮
-<img src="https://i.imgur.com/W9DkqwG.png" width="90%" height="90%">
+<img src="https://i.imgur.com/nB1xBHZ.jpg" width="100%" height="100%">
++ 左圖：安可鐘，就在一家超市旁邊，逛完超市發現有不少人聚集，就跟著一起等看看，大概等了5分鐘安可鐘就開始動起來，人物會一直替換移動，白天是綠色的，晚上是紫色的，很漂亮。右圖是運河旁的塗鴉牆
+<img src="https://i.imgur.com/Lcts5Kn.jpg" width="100%" height="100%">

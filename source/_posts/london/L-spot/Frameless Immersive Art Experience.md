@@ -1,7 +1,7 @@
 ---
 title: 【倫敦-景點】Frameless Immersive Art Experience
 date: 2024-11-1 00:00:15
-updated: 2024-11-1 00:00:15
+updated: 2025-1-12 00:00:15
 tags:
   - 倫敦-景點
   - 會再訪

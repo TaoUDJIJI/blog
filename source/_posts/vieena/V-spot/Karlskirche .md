@@ -1,7 +1,7 @@
 ---
 title: 【維也納-景點】卡爾教堂 (Karlskirche) 
 date: 2024-11-3 00:00:06
-updated: 2024-11-3 00:00:06
+updated: 2025-1-10 00:00:06
 tags: 
   - 維也納-景點
 categories: 
@@ -24,6 +24,24 @@ categories:
 ### 參觀動線：
 + 有三層樓梯可以爬，第一層是一間展間，第二層是管風琴、第三層是戶外頂樓，算中小型的教堂。
 + 之前爬文有看到教堂內部有電梯可以搭，說可以近距離欣賞穹頂畫，但我當天沒特別注意有沒有電梯，看到樓梯就直接往上爬，各位有參觀的話可以再多多注意。
-### 參觀心得：
-+ 當天我去的時候水池被抽乾正在整修，稍稍可惜，廣場旁有小型遊樂場給小朋友玩耍，教堂內有播聖歌，整體氛圍很舒服。
+### 圖集：
++ 當天我去的時候水池被抽乾正在整修，廣場旁有小型遊樂場給小朋友玩耍
+<img src="https://i.imgur.com/iUDrgDA.jpg " width="100%" height="100%">
+
++ 教堂內有播聖歌，整體氛圍很舒服
+<img src="https://i.imgur.com/ZDeuJTq.jpg " width="100%" height="100%">
+
++ 超美的
+<img src="https://i.imgur.com/6qst9hm.jpg " width="100%" height="100%">
  
++ 還可以往上爬
+<img src="https://i.imgur.com/5j3u7yx.jpg " width="100%" height="100%">
+
++ 教堂模型、管風琴
+<img src="https://i.imgur.com/PXYSLSJ.jpg" width="100%" height="100%">
+
++ 還有一些展示品
+<img src="https://i.imgur.com/KX1VBSq.jpg" width="100%" height="100%">
+
++ 再向上爬一層樓可以到戶外平台
+<img src="https://i.imgur.com/xNt39ZM.jpg" width="100%" height="100%">

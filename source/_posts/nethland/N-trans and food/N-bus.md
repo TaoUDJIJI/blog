@@ -1,7 +1,7 @@
 ---
 title: 【荷蘭-交通】荷蘭「公車」怎麼搭？實際搭乘經驗分享
 date: 2024-11-2 00:00:24
-updated: 2024-11-2 00:00:24
+updated: 2025-1-11 00:00:24
 tags:
   - 荷蘭-交通.美食.商店
 categories: 
@@ -19,19 +19,19 @@ categories:
 ### 搭乘經驗：
 + 上下車都要刷卡，感應機台就在一上車司機的旁邊，我是在往返[德哈爾古堡 (Kasteel de Haar)](https://taoudjiji.github.io/blog/nethland/N-spot/Kasteel%20de%20Haar/?highlight=%E5%BE%B7%E5%93%88%E7%88%BE%E5%8F%A4%E5%A0%A1)的路上搭的，搭兩趟發現司機開得蠻快，都有提早到達目的地，那時候是聖誕節，司機們頭戴紅色聖誕帽很可愛！
 + 公車站牌長這樣
-<img src="https://i.imgur.com/K5968un.jpeg" width="100%" height="100%">
+<img src="https://i.imgur.com/nFJonmu.jpg" width="100%" height="100%">
 
 + 這是早上9:30拍的，太陽才剛升起沒多久，公車門旁邊就是感應機台
-<img src="https://i.imgur.com/gdv0aBU.jpeg" width="100%" height="100%">
+<img src="https://i.imgur.com/ElRKY0Y.jpg" width="100%" height="100%">
 
 + 我搭乘的是127號公車，沿路的風景很漂亮，會經過紅村
-<img src="https://i.imgur.com/QgZGRME.jpeg" width="100%" height="100%">
+<img src="https://i.imgur.com/A3i7i7K.jpg" width="100%" height="100%">
 
 + 逛完德哈爾古堡門口就有站牌，回程是搭111號公車
-<img src="https://i.imgur.com/uiBJdQH.jpeg" width="100%" height="100%">
+<img src="https://i.imgur.com/gsuubUT.jpg" width="100%" height="100%">
 
 + 一樣是一台小巴士
-<img src="https://i.imgur.com/S8uLopY.jpeg" width="90%" height="90%">
+<img src="https://i.imgur.com/MptHCNg.jpg" width="90%" height="90%">
 
 + 小巴士內部
-<img src="https://i.imgur.com/c33DKzs.jpeg" width="80%" height="80%">
+<img src="https://i.imgur.com/3MKoSEm.jpg" width="80%" height="80%">
