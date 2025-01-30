@@ -1,7 +1,7 @@
 ---
 title: 【 架網站-6 】hexo的NexT主題：文章內文篇（超連結顏色、閱讀全文、文章更新、目錄、程式區塊）
 date: 2024-10-30 18:00:23
-updated: 2024-10-30 18:00:23
+updated: 2025-1-30 18:00:00
 tags:
   - 從零開始架設部落格
 categories: 
@@ -11,12 +11,12 @@ categories:
 <!-- more -->
 
 ## 撰寫文章：
-+ <font color=#E86D2D>/source/_posts</font>目錄中，所放的檔案就是日後所發佈出去的文章，想新增文章的話可以在「終端機」輸入「hexo new page」指令，也可以直接在當初下載HEXO的資料夾內新增文章。每篇文章點開後，最上方是基本資訊，其第一行、最後一行有用分隔線隔開，中間的內容包含標題、日期、標籤、分類（<font color=#909497>當然，這一切取決於自己的需求，都可以做更改刪除</font>），以我第8篇的文章為例：
++ <font color=#E86D2D>/source/_posts</font>目錄中，所放的檔案就是日後所發佈出去的文章，想新增文章的話可以在「終端機」輸入「hexo new page」指令，也可以直接在當初下載HEXO的資料夾內新增文章。每篇文章點開後，最上方是基本資訊，其第一行、最後一行有用分隔線隔開，中間的內容包含標題、日期、標籤、分類（<font color=#909497>當然，這一切取決於自己的需求，都可以做更改刪除</font>），以本篇文章為例：
 ``` 
 ---
-title: 【 架網站-8 】hexo的NexT主題：標籤篇（彩色標籤、文章底部標籤、標籤大小）
-date: 2024-10-30 18:00:25
-updated: 2024-10-30 18:00:25
+title: 【 架網站-6 】hexo的NexT主題：文章內文篇（超連結顏色、閱讀全文、文章更新、目錄、程式區塊）
+date: 2024-10-30 18:00:23
+updated: 2024-10-30 18:00:23
 tags:
   - 從零開始架設部落格
 categories: 
@@ -36,27 +36,28 @@ categories:
       }
     }
 {% endcodeblock %}
-
++ 成果圖：（平常是深紫色，鼠標放上後變淺紫色）
+<img src="https://i.imgur.com/1v4kmTN.png"  width="90%" height="90%">
 
 ## 閱讀全文：
-+ 可以縮短文章顯示於首頁的行數（我通常只會顯示2~3行），首頁會出現「閱讀全文」的按鈕，想看更多內容再點入即可，語法為： {% codeblock %}<!-- more --> {% endcodeblock %}
-+ 以我某一篇文章的語法為例，<font color=#4287B5>只有在「此語法上方的內容」才會在首頁顯示出來</font>，代表會顯示在首頁上的只會有以下資訊：
->搭乘航空：荷蘭皇家航空
->總飛行時間：1 小時 45 分鐘
->機場：史基浦機場 -> 維也納機場
++ <font color=#4287B5>只有在「此語法上方的內容」才會在首頁顯示出來</font>，可以縮短文章顯示於首頁的行數（我通常只會顯示2~3行），首頁會出現「閱讀全文」的按鈕，想看更多內容再點入即可，語法為： {% codeblock %}<!-- more --> {% endcodeblock %}
++ 以本篇文章為例，背後的語法及文字是：
 
   {% codeblock %}
-  >搭乘航空：荷蘭皇家航空
-  >總飛行時間：1 小時 45 分鐘
-  >機場：史基浦機場 -> 維也納機場
-  <!-- more -->
+>包含撰寫文章、連結顏色更改、新增閱讀全文按鈕、文章顯示更新時間、側欄-目錄、程式區塊
+<!-- more -->
 
-  ### 史基浦機場：
-  **<font color=#909497>比起飛時間提早2.5hr抵達</font>**
-  + <font color=#D1756F>準備離境</font> 
+## 撰寫文章：
++ <font color=#E86D2D>/source/_posts</font>目錄中，
+所放的檔案就是日後所發佈出去的文章，
+想新增文章的話可以在「終端機」輸入「hexo new page」指令，
+也可以直接在當初下載HEXO的資料夾內新增文章。........
   {% endcodeblock %}
 
-### 修改點選「閱讀全文」按鈕後，文字的顯示：
++ 在首頁上的顯示長這樣：
+<img src="https://i.imgur.com/dxPk0Vw.png"  width="100%" height="100%">
+
+### 點選「閱讀全文」按鈕後，文字顯示的起始點修改：
 + 點選 <font color=#E86D2D>themes/next/layout/_macro/post.njk</font>，找到以下語法：<font color=#909497>(快速搜索：mac 的話可以點command+F，windows 的話可以點control+F)</font>
 + 修改前：點開「閱讀全文」後，文章會從閱讀全文按鈕的後續文字開始顯示。
  ``` 
@@ -67,6 +68,8 @@ categories:
  ``` 
 <a class="btn" href="{{ url_for(post.path) }}" rel="contents">
  ``` 
++ 成果圖：
+<img src="https://i.imgur.com/2X6sMDs.png"  width="90%" height="90%">
 
 ### 更改閱讀全文的樣式：
 + 點選 <font color=#E86D2D>themes/next/source/css/main.styl</font>，於內部新增下列語法：
@@ -85,6 +88,8 @@ categories:
   background:rgb(229, 218, 121);   //說明：背景顏色
 } 
  ``` 
++ 成果圖：（平常是咖啡色，鼠標放上後變黃綠色）
+<img src="https://i.imgur.com/fF1ujrR.png"  width="90%" height="90%"> 
 
 ## 文章顯示更新時間：
 + 點選 <font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「post_meta」</font>。
@@ -115,6 +120,8 @@ categories:
   - 🌴 從零開始架設部落格-新手小白的學習筆記
 ---
  ``` 
++ 成果圖：
+<img src="https://i.imgur.com/KPxT23u.png"  width="100%" height="100%">  
 
 ## 側欄-目錄：
 ### 無法顯示標題全文、標題前有數字
@@ -137,6 +144,10 @@ toc:
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: true
  ``` 
++ 成果圖：
+<img src="https://i.imgur.com/60E0kYU.png"  width="90%" height="90%">  
++ 成果圖：
+<img src="https://i.imgur.com/atcUefH.png"  width="90%" height="90%">  
 
  ## 程式區塊-複製選項 copy_button：
 + 點選<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「copy_button」</font>，將「enable」設為true即可，這樣大家在點你的程式碼時，點選右上角就可以直接複製，方便使用。

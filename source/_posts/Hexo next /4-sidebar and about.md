@@ -1,7 +1,7 @@
 ---
 title: 【 架網站-4 】hexo的NexT主題：側欄篇（版面配置、新增「關於、標籤、分類」的頁面）
 date: 2024-10-30 18:00:21
-updated: 2024-10-30 18:00:21
+updated: 2025-1-30 15:50:00
 tags:
   - 從零開始架設部落格
 categories: 
@@ -13,7 +13,7 @@ categories:
 <!-- more -->
 
 ## 更改側欄位置：sidebar
-+ 點選<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「sidebar」</font><font color=#909497>(快速搜索：mac 的話可以點command+F，windows 的話可以點control+F)</font>，原先預設是左側，我改成右側。
++ 點選<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「sidebar」</font><font color=#909497>(快速搜索：mac 的話可以點command+F，windows 的話可以點control+F)</font>，原先預設是左側，我改成右側<font color=#909497>(把position從left改成right)。</font>
 {% codeblock %}
 sidebar:
   # Sidebar Position.
@@ -39,6 +39,8 @@ search:
 local_search:
   enable: true
 {% endcodeblock %}
++ **成果圖：**
+<img src="https://i.imgur.com/XPkmmqQ.png" width="100%" height="100%">
 
 ## 側欄-新增欄位：關於(about)、標籤(tags)、分類(categories)
 + 點選<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「menu」</font>。
@@ -56,21 +58,21 @@ local_search:
     #commonweal: /404/ || fa fa-heartbeat
   {% endcodeblock %}
 
-#### <font color=#4287B5>新增頁面-關於(about)、標籤(tags)、分類(categories) </font>
-+ **STEP1：在終端機分別輸入以下指令，建立about、tags、categories的頁面**
-  {% codeblock %}
-  hexo new page about
-  {% endcodeblock %}
++ <font color=#4287B5>**about、tags、categories-需新增頁面才可使用** </font>
+   **STEP1：在終端機分別輸入以下指令，建立about、tags、categories的頁面**
+   {% codeblock %}
+   hexo new page about
+   {% endcodeblock %}
 
-  {% codeblock %}
-  hexo new page categories
-  {% endcodeblock %}
+   {% codeblock %}
+   hexo new page categories
+   {% endcodeblock %}
 
-  {% codeblock %}
-  hexo new page tags
-  {% endcodeblock %}
+   {% codeblock %}
+   hexo new page tags
+   {% endcodeblock %}
 
-+ **STEP2：點入已新增頁面的「index.md」檔案，編輯頁面內容，tags、categories 兩者要分別在頁面上方輸入「type: tags」、「type: categories」才算啟用完成，about則不需要。**
+   **STEP2：點入已新增頁面的「index.md」檔案，編輯頁面內容，tags、categories 兩者要分別在頁面上方輸入「type: tags」、「type: categories」才算啟用完成，about則不需要。**
 
   {% codeblock %}
   ---
@@ -88,25 +90,23 @@ local_search:
   ---
   {% endcodeblock %}
 
-#### <font color=#4287B5>將文章加上標籤(tags)、分類(categories)：</font>
-+ 以下舉我其中一篇文章為例，要在最上面加上「tags」、「categories」的欄位。
-+ 「tags」：是平行階層，如果一次將同一篇文章新增好幾個標籤，會併排顯示，實際效果可以點選我側欄的標籤頁。
-+ 「categories」：是上下階層，不支持同級的多項類別，先列的會在上位階，例如這篇文章是分類於「🥥 英國（倫敦）」篇，隸屬於「🌴 旅遊體驗分享-目前皆為自助遊」內，實際效果可以點選我側欄的分類頁。
-+ 語法：
-{% codeblock %}
----
-title: 【倫敦-景點】Frameless Immersive Art Experience
-date: 2024-11-1 00:00:15
-updated: 2024-11-1 00:00:15
-tags:
-  - 倫敦-景點
-  - 會再訪
-categories: 
-  - 🌴 旅遊體驗分享-目前皆為自助遊
-  - 🥥 英國（倫敦） 
----
-{% endcodeblock %}
-
++ <font color=#4287B5>將文章加上標籤(tags)、分類(categories)：</font>
+  1.我每篇文章在內文的上方都有一個區塊是基本資訊欄位，以我其中一篇文章為例：
+   {% codeblock %}
+   ---
+   title: 【倫敦-景點】Frameless Immersive Art Experience
+   date: 2024-11-1 00:00:15
+   updated: 2024-11-1 00:00:15
+   tags:
+     - 倫敦-景點
+     - 會再訪
+   categories: 
+     - 🌴 旅遊體驗分享-目前皆為自助遊
+     - 🥥 英國（倫敦） 
+   ---
+   {% endcodeblock %}
+   2.「tags」：是平行階層，如果一次將同一篇文章新增好幾個標籤，會併排顯示，實際效果可以點選我側欄的標籤頁。
+   3.「categories」：有區分上、下階層，不支持同階層的多項類別，先列的會在上位階，例如所舉例的文章是分類於「🌴 旅遊體驗分享-目前皆為自助遊」內部的「🥥 英國（倫敦）」篇，實際效果可以點選我側欄的分類頁。
 ## 側欄-更改圖標：
 #### 更改「側欄上方」的圖標：
 點選<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「menu」</font>。
@@ -125,6 +125,8 @@ menu:
 
 + 說明：
 fa fa-home、fa fa-user、fa fa-tags、fa fa-th、fa fa-archive，這些都是圖標的語法，可以自行替換，這種圖標叫fontawesome，[fontawesome官網](https://fontawesome.com/v6/search?o=r&m=free)還有很多免費圖標可以用哦，不需要登入就可以查詢。
++ 成果圖：
+<img src="https://i.imgur.com/89u1ztL.png" width="45%" height="45%">
 
 #### 更改「側欄下方」的圖標（作者欄位）：
 一樣在<font color=#E86D2D>「_config.next.yml」</font>，搜尋<font color=#E86D2D>「social」</font>。
@@ -142,3 +144,6 @@ social:
   #Skype: skype:yourname?call|chat || fab fa-skype
 {% endcodeblock %}
 + 說明：網址可以修改為你自己的社交帳號網址
+<img src="https://i.imgur.com/NSmYqrK.jpg" width="90%" height="90%">
++ 成果圖：
+<img src="https://i.imgur.com/rjGuNtj.png" width="45%" height="45%">
